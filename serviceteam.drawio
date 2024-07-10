@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T09:29:51.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="EgdXaZ-v7I-HExOxa4vJ" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T09:40:15.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="EkoGPjQN15cYtdjhxkxc" version="24.6.4" type="github">
   <diagram name="Seite-1" id="cYS-9EuOB4i6pcKZ9MJi">
     <mxGraphModel dx="3088" dy="2043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,6 +20,9 @@
           <mxGeometry x="40" width="105" height="170" as="geometry">
             <mxRectangle width="105" height="170" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6n-yQPafIiMLYWiK96yH-6" value="&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#4f688c&quot;&gt;Eintrag gebuchter Termin mit allen Details&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#4f688c&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zZJHMVHqWspqlWFaA559-5">
+          <mxGeometry x="-1.39" y="60" width="105" height="110" as="geometry" />
         </mxCell>
         <mxCell id="zZJHMVHqWspqlWFaA559-6" value="Dienstag&#xa;Datum" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;startSize=60;collapsible=0;recursiveResize=0;expand=0;dashed=1;" parent="zZJHMVHqWspqlWFaA559-4" vertex="1">
           <mxGeometry x="145" width="105" height="170" as="geometry">
@@ -64,13 +67,21 @@
             <mxRectangle width="105" height="126" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-67" value="&lt;font style=&quot;background-color: rgb(204, 204, 204);&quot; color=&quot;#ffffff&quot;&gt;geblockter Termin&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#969696;fillColor=#CCCCCC;" parent="zZJHMVHqWspqlWFaA559-15" vertex="1">
-          <mxGeometry width="106" height="127" as="geometry" />
+        <mxCell id="6n-yQPafIiMLYWiK96yH-1" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#4f688c&quot;&gt;Eintrag gebuchter Termin mit allen Details&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zZJHMVHqWspqlWFaA559-15">
+          <mxGeometry y="-2" width="105" height="130" as="geometry" />
         </mxCell>
         <mxCell id="zZJHMVHqWspqlWFaA559-16" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;startSize=0;collapsible=0;recursiveResize=0;expand=0;dashed=1;" parent="zZJHMVHqWspqlWFaA559-13" vertex="1">
           <mxGeometry x="250" width="105" height="126" as="geometry">
             <mxRectangle width="105" height="126" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6n-yQPafIiMLYWiK96yH-11" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;startSize=0;collapsible=0;recursiveResize=0;expand=0;dashed=1;" vertex="1" parent="zZJHMVHqWspqlWFaA559-16">
+          <mxGeometry y="-2" width="105" height="129" as="geometry">
+            <mxRectangle width="105" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6n-yQPafIiMLYWiK96yH-12" value="&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#4f688c&quot;&gt;Eintrag gebuchter Termin mit allen Details&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#4f688c&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6n-yQPafIiMLYWiK96yH-11">
+          <mxGeometry width="105" height="130" as="geometry" />
         </mxCell>
         <mxCell id="zZJHMVHqWspqlWFaA559-17" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;startSize=0;collapsible=0;recursiveResize=0;expand=0;dashed=1;" parent="zZJHMVHqWspqlWFaA559-13" vertex="1">
           <mxGeometry x="355" width="105" height="126" as="geometry">
@@ -81,6 +92,9 @@
           <mxGeometry x="460" width="105" height="126" as="geometry">
             <mxRectangle width="105" height="126" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6n-yQPafIiMLYWiK96yH-3" value="&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#4f688c&quot;&gt;Eintrag gebuchter Termin mit allen Details&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#4f688c&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zZJHMVHqWspqlWFaA559-18">
+          <mxGeometry x="-1.7763568394002505e-15" y="-1" width="105" height="130" as="geometry" />
         </mxCell>
         <mxCell id="zZJHMVHqWspqlWFaA559-19" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;startSize=0;collapsible=0;recursiveResize=0;expand=0;dashed=1;" parent="zZJHMVHqWspqlWFaA559-13" vertex="1">
           <mxGeometry x="565" width="105" height="126" as="geometry">
@@ -105,6 +119,14 @@
             <mxRectangle width="105" height="129" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6n-yQPafIiMLYWiK96yH-8" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;startSize=0;collapsible=0;recursiveResize=0;expand=0;dashed=1;" vertex="1" parent="zZJHMVHqWspqlWFaA559-24">
+          <mxGeometry x="6" y="4.5" width="105" height="129" as="geometry">
+            <mxRectangle width="105" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6n-yQPafIiMLYWiK96yH-9" value="&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#4f688c&quot;&gt;Eintrag gebuchter Termin mit allen Details&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#4f688c&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6n-yQPafIiMLYWiK96yH-8">
+          <mxGeometry x="-5" y="-1" width="105" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="zZJHMVHqWspqlWFaA559-25" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;startSize=0;collapsible=0;recursiveResize=0;expand=0;dashed=1;" parent="zZJHMVHqWspqlWFaA559-22" vertex="1">
           <mxGeometry x="250" width="105" height="129" as="geometry">
             <mxRectangle width="105" height="129" as="alternateBounds" />
@@ -115,7 +137,7 @@
             <mxRectangle width="105" height="129" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-66" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#4f688c&quot;&gt;Eintrag gebuchter Termin (der für Aufsicht relevant ist) --&amp;gt; Relevante Info anzeigen&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="zZJHMVHqWspqlWFaA559-26" vertex="1">
+        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-66" value="&lt;div align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#4f688c&quot;&gt;Eintrag gebuchter Termin mit allen Details&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#4f688c&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="zZJHMVHqWspqlWFaA559-26" vertex="1">
           <mxGeometry width="105" height="130" as="geometry" />
         </mxCell>
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-68" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6;endSize=5.45;strokeWidth=2;endWidth=15;" parent="zZJHMVHqWspqlWFaA559-26" edge="1">
@@ -281,8 +303,8 @@
             <mxPoint x="340" y="694.3413333333335" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-96" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Termin&lt;/span&gt; &lt;span style=&quot;font-weight: normal;&quot;&gt;ablehnen&lt;/span&gt;&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#A680B8;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#CDA2BE;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="490" y="820" width="110" height="30" as="geometry" />
+        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-96" value="&lt;font&gt;Status ändern&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#006EAF;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#1ba1e2;whiteSpace=wrap;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="370" y="820" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-110" value="Filterkategorie" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#ABABAB;strokeWidth=1;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingRight=0;spacing=17;" parent="1" vertex="1">
           <mxGeometry x="-630" y="80" width="550" height="30" as="geometry" />
@@ -384,7 +406,7 @@
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-90" value="&lt;font color=&quot;#4f688c&quot;&gt;Informationen zur Prüfung (Kommentarfeld des Buchenden)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hZRU2H-SfIQ9f5EC4YqQ-138" vertex="1">
           <mxGeometry x="60" y="182.8" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-91" value="&lt;font color=&quot;#4f688c&quot;&gt;Ort an dem die Prüfung stattfindet&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hZRU2H-SfIQ9f5EC4YqQ-138" vertex="1">
+        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-91" value="&lt;font color=&quot;#4f688c&quot;&gt;Ort, an dem die Prüfung stattfindet&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hZRU2H-SfIQ9f5EC4YqQ-138" vertex="1">
           <mxGeometry x="60" y="150" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-92" value="&lt;font color=&quot;#4f688c&quot;&gt;Zugewiesene Kommentare / Aufgaben / Rolle&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hZRU2H-SfIQ9f5EC4YqQ-138" vertex="1">
@@ -686,6 +708,16 @@
         </mxCell>
         <mxCell id="dn2ftPwxMdWk7J5uYx6K-3" value="Anmerkung von Philipp und Melanie: &lt;br&gt;Ist der Button &quot;Termin ablehnen&quot; an dieser Stelle wirklich sinnvoll?&lt;br&gt;Sollte die Kommunikation darüber nicht außerhalb des Buchungstools erfolgen?" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-60" y="1410" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6n-yQPafIiMLYWiK96yH-2" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;startSize=0;collapsible=0;recursiveResize=0;expand=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-436" y="536" width="105" height="129" as="geometry">
+            <mxRectangle width="105" height="129" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6n-yQPafIiMLYWiK96yH-5" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;startSize=0;collapsible=0;recursiveResize=0;expand=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-426" y="546" width="105" height="129" as="geometry">
+            <mxRectangle width="105" height="129" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
