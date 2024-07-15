@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T08:21:44.480Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="L_DHsWsT67fEAsMDpfbW" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T08:40:50.524Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="12fXe0GLt8tx3Nemhy0i" version="24.6.5" type="github">
   <diagram name="Seite-1" id="cYS-9EuOB4i6pcKZ9MJi">
-    <mxGraphModel dx="3970" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3627" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-117" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="230" y="645" width="340" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="5YDPGhxfkZ1rQy1-W0EN-1" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Mockup Kalender Aufsichtsperson/ Support vor Ort Startseite&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="1" vertex="1">
+        <mxCell id="5YDPGhxfkZ1rQy1-W0EN-1" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Mockup Kalender Aufsichtsperson / Support vor Ort Startseite&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="-827" y="-70" width="827" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zZJHMVHqWspqlWFaA559-3" value="" style="shape=table;childLayout=tableLayout;startSize=0;collapsible=0;recursiveResize=0;expand=0;dashed=1;" parent="1" vertex="1">
@@ -260,7 +260,7 @@
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-59" value="" style="line;strokeWidth=1;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="285" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-61" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Mockup Kalender Aufsichtsperson/ Support vor Ort persönliche Termine (Terminübersicht)&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="1" vertex="1">
+        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-61" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Mockup Kalender Aufsichtsperson / Support vor Ort persönliche Termine (Terminübersicht)&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="-827" y="830" width="827" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-72" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;strokeColor=#4F688C;" parent="1" vertex="1">
@@ -706,7 +706,7 @@
         <mxCell id="e1TnNH38wNG9se1s8yBi-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#7EA6E0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.edit;" vertex="1" parent="1">
           <mxGeometry x="183" y="540.5999999999999" width="29.4" height="29.4" as="geometry" />
         </mxCell>
-        <mxCell id="e1TnNH38wNG9se1s8yBi-9" value="Statt &quot;Termin ablehnen&quot; könnte hier ein Button &quot;Mitteilung&quot; an den Terminverantwortlichen (Service-Team-Kollege) stehen." style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="e1TnNH38wNG9se1s8yBi-9" value="Statt &quot;Termin ablehnen&quot; könnte hier ein Button &quot;Mitteilung&quot; an den Terminverantwortlichen (Service-Team-Kollege) stehen." style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="1410" width="220" height="110" as="geometry" />
         </mxCell>
       </root>
