@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T08:48:00.044Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="cwR3Us-MCvwrzdofdqOp" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T09:06:07.114Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="NPh3KSkMeyVKBcEvDN2a" version="24.6.5" type="github">
   <diagram name="Seite-1" id="cYS-9EuOB4i6pcKZ9MJi">
-    <mxGraphModel dx="3275" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3561" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,30 +257,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-53" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="50" y="130" width="200" height="150" as="geometry" />
+          <mxGeometry x="50" y="130" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-54" value="Institut" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=inherit;fillColor=#ffffff;fontColor=#6C767D;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="hZRU2H-SfIQ9f5EC4YqQ-53" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-55" value="&lt;font color=&quot;#ababab&quot;&gt;persönliche Termine&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="hZRU2H-SfIQ9f5EC4YqQ-53" vertex="1">
+        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-55" value="&lt;span style=&quot;color: rgb(171, 171, 171);&quot;&gt;Freitexsuch (Prüfungsname / Titel&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="hZRU2H-SfIQ9f5EC4YqQ-53" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-56" value="..." style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="hZRU2H-SfIQ9f5EC4YqQ-53" vertex="1">
+        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-56" value="Fakultät / Institut" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="hZRU2H-SfIQ9f5EC4YqQ-53" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-57" value="..." style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="hZRU2H-SfIQ9f5EC4YqQ-53" vertex="1">
+        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-57" value="Raum" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="hZRU2H-SfIQ9f5EC4YqQ-53" vertex="1">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-58" value="..." style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" parent="hZRU2H-SfIQ9f5EC4YqQ-53" vertex="1">
-          <mxGeometry y="1" width="200" height="30" relative="1" as="geometry">
-            <mxPoint y="-30" as="offset" />
+        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-58" value="Status" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" parent="hZRU2H-SfIQ9f5EC4YqQ-53" vertex="1">
+          <mxGeometry y="1" width="200" height="29" relative="1" as="geometry">
+            <mxPoint y="-40" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VEeHRCUbO_2weyN1t2fq-1" value="Zeitslot" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="hZRU2H-SfIQ9f5EC4YqQ-53">
+          <mxGeometry y="113.68421052631578" width="200" height="28.421052631578945" as="geometry" />
         </mxCell>
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-59" value="" style="line;strokeWidth=1;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="285" width="40" height="10" as="geometry" />
