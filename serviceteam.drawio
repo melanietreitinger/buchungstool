@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T07:58:49.354Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="p46Zx6bRgHQQq8uN3nOK" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T08:48:00.044Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="cwR3Us-MCvwrzdofdqOp" version="24.6.5" type="github">
   <diagram name="Seite-1" id="cYS-9EuOB4i6pcKZ9MJi">
-    <mxGraphModel dx="3035" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3275" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,7 +285,7 @@
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-59" value="" style="line;strokeWidth=1;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="285" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-61" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Mockup Kalender Aufsichtsperson / Support vor Ort persönliche Termine (Terminübersicht)&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="1" vertex="1">
+        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-61" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Mockup Kalender Service-Team persönliche Termine (Terminübersicht)&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="-827" y="830" width="827" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-73" value="nach dem Klicken auf den Termin, öffnet sich die Detailansicht mit allen Angaben zum Termin (Die Ansicht liegt über dem Kalender)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ABABAB;" parent="1" vertex="1">
@@ -315,7 +315,7 @@
           <mxGeometry x="240" y="120" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-131" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-1050" y="160" width="150" height="90" as="geometry" />
+          <mxGeometry x="-1050" y="160" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-132" value="&lt;font color=&quot;#ababab&quot;&gt;Tag&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;strokeColor=inherit;fillColor=#ffffff;fontColor=#6C767D;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="hZRU2H-SfIQ9f5EC4YqQ-131" vertex="1">
           <mxGeometry width="150" height="30" relative="1" as="geometry" />
@@ -325,7 +325,7 @@
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-134" value="..." style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="hZRU2H-SfIQ9f5EC4YqQ-131" vertex="1">
+        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-134" value="Meine Vor-Ort-Termine" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="hZRU2H-SfIQ9f5EC4YqQ-131" vertex="1">
           <mxGeometry width="150" height="30" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
