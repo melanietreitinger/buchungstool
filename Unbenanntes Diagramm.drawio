@@ -13,7 +13,7 @@
         <mxCell id="zUiShujMp0SEYhunsbVT-2" value="Checkliste: Service Team" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="130" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zUiShujMp0SEYhunsbVT-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;mso-bidi-font-weight:normal&quot;&gt;&lt;font face=&quot;omEwTt3iOOV243laJ29D&quot;&gt;Prüfungsübersicht (aus Prüfungstermin)&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;omEwTt3iOOV243laJ29D&quot;&gt;Prüfungstitel: Testprüfung&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-family: omEwTt3iOOV243laJ29D; background-color: initial;&quot;&gt;Datum: 01.01.2025&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: omEwTt3iOOV243laJ29D; background-color: initial;&quot;&gt;Uhrzeit: 8-10&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: omEwTt3iOOV243laJ29D; background-color: initial;&quot;&gt;Eingetragene Lehrperson: Name&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: omEwTt3iOOV243laJ29D; background-color: initial;&quot;&gt;Prüfungssystem: Prüfungsmoodle/EvaExam&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: omEwTt3iOOV243laJ29D; background-color: initial;&quot;&gt;Ort: E-Prüfungsraum/@home etc.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: omEwTt3iOOV243laJ29D;&quot;&gt;Teilnehmendenzahl:&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: omEwTt3iOOV243laJ29D;&quot;&gt;Zusatzausstattung : Excel, Headsets&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: omEwTt3iOOV243laJ29D;&quot;&gt;Support vor Ort: Name&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="zUiShujMp0SEYhunsbVT-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;mso-bidi-font-weight:normal&quot;&gt;&lt;font face=&quot;omEwTt3iOOV243laJ29D&quot;&gt;Prüfungsübersicht (aus Prüfungstermin)&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;omEwTt3iOOV243laJ29D&quot;&gt;Prüfungstitel: Testprüfung&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-family: omEwTt3iOOV243laJ29D; background-color: initial;&quot;&gt;Datum: 01.01.2025&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: omEwTt3iOOV243laJ29D; background-color: initial;&quot;&gt;Uhrzeit: 8-10&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: omEwTt3iOOV243laJ29D; background-color: initial;&quot;&gt;Eingetragene Lehrperson: Name&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: omEwTt3iOOV243laJ29D; background-color: initial;&quot;&gt;Prüfungssystem: Prüfungsmoodle/EvaExam&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: omEwTt3iOOV243laJ29D; background-color: initial;&quot;&gt;Ort: E-Prüfungsraum/@home etc.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: omEwTt3iOOV243laJ29D;&quot;&gt;Teilnehmendenzahl: 78&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: omEwTt3iOOV243laJ29D;&quot;&gt;Zusatzausstattung : Excel, Headsets&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: omEwTt3iOOV243laJ29D;&quot;&gt;Support vor Ort: Name&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="220" y="180" width="410" height="180" as="geometry" />
         </mxCell>
         <mxCell id="zUiShujMp0SEYhunsbVT-30" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;align=left;" vertex="1" parent="1">
@@ -81,7 +81,7 @@
             <mxRectangle width="50" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zUiShujMp0SEYhunsbVT-54" value="&lt;span style=&quot;font-size:12.0pt;font-family:Akkurat-Light;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:DE;mso-fareast-language:&lt;br/&gt;DE;mso-bidi-language:AR-SA&quot;&gt;Reminder Mail 1 Woche vorher (automatisch?)&amp;nbsp;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="zUiShujMp0SEYhunsbVT-52">
+        <mxCell id="zUiShujMp0SEYhunsbVT-54" value="&lt;span style=&quot;font-size:12.0pt;font-family:Akkurat-Light;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:DE;mso-fareast-language:&lt;br/&gt;DE;mso-bidi-language:AR-SA&quot;&gt;Reminder Mail 1 Woche vorher (automatisch?) an Lehrenden&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="zUiShujMp0SEYhunsbVT-52">
           <mxGeometry x="50" width="230" height="43" as="geometry">
             <mxRectangle width="230" height="43" as="alternateBounds" />
           </mxGeometry>
@@ -99,12 +99,12 @@
             <mxRectangle width="50" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zUiShujMp0SEYhunsbVT-51" value="Benötigtes Platz-Szenario" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="zUiShujMp0SEYhunsbVT-49">
+        <mxCell id="zUiShujMp0SEYhunsbVT-51" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;horizontal=1;" vertex="1" parent="zUiShujMp0SEYhunsbVT-49">
           <mxGeometry x="50" width="230" height="43" as="geometry">
             <mxRectangle width="230" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zUiShujMp0SEYhunsbVT-68" value="Drop-Down Auswahl jeder 2. Platz etc." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zUiShujMp0SEYhunsbVT-49">
+        <mxCell id="zUiShujMp0SEYhunsbVT-68" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zUiShujMp0SEYhunsbVT-49">
           <mxGeometry x="280" width="130" height="43" as="geometry">
             <mxRectangle width="130" height="43" as="alternateBounds" />
           </mxGeometry>
@@ -117,7 +117,7 @@
             <mxRectangle width="50" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zUiShujMp0SEYhunsbVT-48" value="etc." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zUiShujMp0SEYhunsbVT-46">
+        <mxCell id="zUiShujMp0SEYhunsbVT-48" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zUiShujMp0SEYhunsbVT-46">
           <mxGeometry x="50" width="230" height="43" as="geometry">
             <mxRectangle width="230" height="43" as="alternateBounds" />
           </mxGeometry>
@@ -163,7 +163,7 @@
         <mxCell id="zUiShujMp0SEYhunsbVT-73" value="Export nach?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="330" y="690" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zUiShujMp0SEYhunsbVT-74" value="Import aus?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="zUiShujMp0SEYhunsbVT-74" value="Import Checkliste aus?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="219" y="690" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zUiShujMp0SEYhunsbVT-75" value="&lt;b&gt;TO-Do´s Service Team bis zum Prüfungstermin&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
