@@ -782,7 +782,7 @@
         <mxCell id="QiOB0qECL0zAiB_2sR25-45" value="abgelehnt" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#666666;fontSize=17;" vertex="1" parent="QiOB0qECL0zAiB_2sR25-38">
           <mxGeometry y="110" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CCN0DATAm5xw3YuDV8w9-1" value="Detailansicht gebuchte Termine" parent="0" visible="0" />
+        <mxCell id="CCN0DATAm5xw3YuDV8w9-1" value="Detailansicht gebuchte Termine" parent="0" />
         <mxCell id="tTCCTxN9szVMtPMrQivX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="CCN0DATAm5xw3YuDV8w9-1" source="CCN0DATAm5xw3YuDV8w9-30" target="CCN0DATAm5xw3YuDV8w9-85" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
