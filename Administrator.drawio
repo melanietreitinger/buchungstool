@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.5" pages="2">
   <diagram name="Checkliste" id="Zr_G_hcXwSWRQ9lRJL4E">
-    <mxGraphModel dx="1410" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="Checkliste" parent="0" />
@@ -275,11 +275,23 @@
         <mxCell id="UnJLPp4cT4F1k7DDOegg-2" value="Tage vor der Prüfung" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h2HBl5gkmupRguE7wDUX-110">
           <mxGeometry x="250" y="150" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LzJ3E76Xs3PUDbBHmzgn-11" value="Benachrichtigung?" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="h2HBl5gkmupRguE7wDUX-110">
+          <mxGeometry x="10" y="201.25" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LzJ3E76Xs3PUDbBHmzgn-13" value="Rollenbezeichnung / Keine" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="h2HBl5gkmupRguE7wDUX-110">
+          <mxGeometry x="130" y="201.25" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LzJ3E76Xs3PUDbBHmzgn-14" value="Automatisch am Termin?" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="h2HBl5gkmupRguE7wDUX-110">
+          <mxGeometry x="10" y="241.25" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LzJ3E76Xs3PUDbBHmzgn-15" value="Automatische Benachrichtigung an &quot;Rolle&quot; soll auch an&amp;nbsp; die Entscheidungskompetenz des Service-Teams weiterleitbar sein." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="h2HBl5gkmupRguE7wDUX-108">
+          <mxGeometry x="860" y="490" width="140" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="U2jb-RSi5WsM652t6KDA" name="Adminoberfläche">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Backendbasis" id="1">
@@ -326,6 +338,15 @@
         </mxCell>
         <mxCell id="WeVwqvsSfUyIjj-v-h-F-11" value="Buchen ab (Zeitpunkt) für Räume ermöglichen" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="430" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lsYs24crVbSrLBwQt0k6-1" value="Konfiguration Prüfungskurs(e)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="25" y="640" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lsYs24crVbSrLBwQt0k6-2" value="Leerer Kurs / Kurseinstellungen / Kurs-Templates / Abfrage (auch kein Kurs ist möglich)" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="640" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zKXG9d2xrEluVEUZJYeF-1" value="Zeitslots sollen konfigurierbar sein - und die Reihnfolge soll linear wählbar sein (erst Slot 1, dann Slot 2 ..." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="660" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
