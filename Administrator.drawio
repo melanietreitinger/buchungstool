@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.5" pages="2">
   <diagram name="Checkliste" id="Zr_G_hcXwSWRQ9lRJL4E">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="Checkliste" parent="0" />
@@ -287,6 +287,18 @@
         <mxCell id="LzJ3E76Xs3PUDbBHmzgn-15" value="Automatische Benachrichtigung an &quot;Rolle&quot; soll auch an&amp;nbsp; die Entscheidungskompetenz des Service-Teams weiterleitbar sein." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="h2HBl5gkmupRguE7wDUX-108">
           <mxGeometry x="860" y="490" width="140" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="srnO4AnqnK746qKXvfxY-1" value="neuer&amp;nbsp;&lt;div&gt;Checklistenpunkt oder vorhandenen löschen&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="h2HBl5gkmupRguE7wDUX-108">
+          <mxGeometry x="150" y="580" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="srnO4AnqnK746qKXvfxY-2" value="je Prüfungsraum verschiedene Checklisten" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="h2HBl5gkmupRguE7wDUX-108">
+          <mxGeometry x="330" y="580" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="srnO4AnqnK746qKXvfxY-3" value="Cheklistenansichten sortierbar / filterbar nach Aufgabenbereich" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="h2HBl5gkmupRguE7wDUX-108">
+          <mxGeometry x="500" y="580" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="srnO4AnqnK746qKXvfxY-4" value="Checklistenpunkte in Kategorien anzeigen und zuordnen" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="h2HBl5gkmupRguE7wDUX-108">
+          <mxGeometry x="670" y="585" width="140" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -347,6 +359,12 @@
         </mxCell>
         <mxCell id="zKXG9d2xrEluVEUZJYeF-1" value="Zeitslots sollen konfigurierbar sein - und die Reihnfolge soll linear wählbar sein (erst Slot 1, dann Slot 2 ..." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="450" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKXG9d2xrEluVEUZJYeF-2" value="Konfiguration Platzhalter-Rollen (für Checklistenzuweisungen oder Kalenderanzeige)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="770" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKXG9d2xrEluVEUZJYeF-3" value="Welche Konfigurationsoption gehört zu welchem Plugin-Teil?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="650" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
