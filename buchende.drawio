@@ -975,7 +975,7 @@
         <mxCell id="_DsCVTP__QrlFAfJBJhi-132" value="3 Studierende" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=14;spacingLeft=3;" parent="QiOB0qECL0zAiB_2sR25-46" vertex="1">
           <mxGeometry x="510" y="510" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CCN0DATAm5xw3YuDV8w9-9" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#4f688c&quot;&gt;eigene Notizen (nur von der eingeloggten Person lesbar)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#4f688c&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#4f688c&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#4f688c&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#4f688c&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;align=left;" parent="QiOB0qECL0zAiB_2sR25-46" vertex="1">
+        <mxCell id="CCN0DATAm5xw3YuDV8w9-9" value="&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#4f688c&quot;&gt;Notizen für das Service-Team&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;align=left;" parent="QiOB0qECL0zAiB_2sR25-46" vertex="1">
           <mxGeometry x="210" y="850" width="550" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_DsCVTP__QrlFAfJBJhi-143" value="" style="group;" parent="QiOB0qECL0zAiB_2sR25-46" vertex="1" connectable="0">
