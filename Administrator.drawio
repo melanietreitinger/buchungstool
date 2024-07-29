@@ -432,12 +432,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U2jb-RSi5WsM652t6KDA" name="Adminoberfläche">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <object label="Backendbasis" id="1">
+          <mxCell parent="0" />
+        </object>
         <mxCell id="hhbZZIXx-p72COfFiIwf-1" value="Konfiguration Prüfungsräume" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" y="290" width="210" height="30" as="geometry" />
+          <mxGeometry x="35" y="400" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hhbZZIXx-p72COfFiIwf-3" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Mockup ADMIN BACKEND&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry y="20" width="827" height="70" as="geometry" />
@@ -446,7 +448,34 @@
           <mxGeometry x="40" y="120" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hhbZZIXx-p72COfFiIwf-5" value="Konfiguration Benachrichtigungen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" y="440" width="230" height="30" as="geometry" />
+          <mxGeometry x="40" y="490" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVwqvsSfUyIjj-v-h-F-1" value="Konfiguration Export / Import" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVwqvsSfUyIjj-v-h-F-2" value="Konfiguration Filteroptionen?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="35" y="210" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVwqvsSfUyIjj-v-h-F-3" value="möchte ich konfigurieren können, welche Informationen zu einer Prüfung in Kalenderdateien (*.ics) exportiert werden können" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVwqvsSfUyIjj-v-h-F-5" value="möchte ich konfigurieren, ob es feste Slots für Prüfungen gibt oder nicht - wenn es feste Slots gibt, möchte ich diese sowohl als Serie anlegen können als auch individuell bearbeiten/löschen/hinzufügen." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVwqvsSfUyIjj-v-h-F-6" value="möchte ich Stati auswählen können, die über &quot;gebucht&quot;, &quot;abgelehnt&quot; und &quot;angefragt&quot; hinausgehen" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="205" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVwqvsSfUyIjj-v-h-F-7" value="möchte ich die URL und den Webservice-Token für das Exam-System konfigurieren können" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVwqvsSfUyIjj-v-h-F-8" value="die potentiellen Prüfungsräume konfigurieren können (Bezeichnung, Sitzanzahl, Sonstige Ausstattung)" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVwqvsSfUyIjj-v-h-F-9" value="möchte ich eine Übersicht mit allen Ressourcenbuchungen je Zeitslot haben" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="580" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WeVwqvsSfUyIjj-v-h-F-10" value="Konfiguration Ressourcen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="65" y="570" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
