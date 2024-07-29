@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.5">
   <diagram name="Kalender" id="cYS-9EuOB4i6pcKZ9MJi">
-    <mxGraphModel dx="2237" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2707" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="Kalender" style="" parent="0" />
@@ -1088,7 +1088,7 @@
         <mxCell id="TuoxUDgc9kxG5lUEJexI-534" value="Statt Zeitwahl: Slot-Wahl ODER&lt;br&gt;Slot-Reihenfolgen-Wahl" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="CCN0DATAm5xw3YuDV8w9-1" vertex="1">
           <mxGeometry x="1610" y="977.84" width="140" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="CCN0DATAm5xw3YuDV8w9-107" value="Eigene Termine" style="" parent="0" />
+        <mxCell id="CCN0DATAm5xw3YuDV8w9-107" value="Eigene Termine" style="locked=1;" parent="0" />
         <mxCell id="CCN0DATAm5xw3YuDV8w9-108" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Terminübersicht Persönliche Termin (Liste unterhalb des Kalenders)&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="CCN0DATAm5xw3YuDV8w9-107" vertex="1">
           <mxGeometry x="-827" y="490" width="827" height="60" as="geometry" />
         </mxCell>
@@ -1473,6 +1473,18 @@
         </mxCell>
         <mxCell id="fP41CBTMwJmhMQKIAeSz-66" value="" style="strokeColor=#999999;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.editIcon;" vertex="1" parent="TuoxUDgc9kxG5lUEJexI-20">
           <mxGeometry x="731.5" y="665" width="25" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="fP41CBTMwJmhMQKIAeSz-67" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Checkliste&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="TuoxUDgc9kxG5lUEJexI-20">
+          <mxGeometry x="639" y="551" width="74" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fP41CBTMwJmhMQKIAeSz-68" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Checkliste&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="TuoxUDgc9kxG5lUEJexI-20">
+          <mxGeometry x="639" y="589" width="74" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fP41CBTMwJmhMQKIAeSz-69" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Checkliste&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="TuoxUDgc9kxG5lUEJexI-20">
+          <mxGeometry x="639" y="627" width="74" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fP41CBTMwJmhMQKIAeSz-70" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Checkliste&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="TuoxUDgc9kxG5lUEJexI-20">
+          <mxGeometry x="639" y="665" width="74" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TuoxUDgc9kxG5lUEJexI-114" value="&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;color: rgb(79, 104, 140); text-align: center;&quot;&gt;Eintrag gebuchter Termin (vom Buchenden)&lt;/span&gt;&lt;font color=&quot;#4f688c&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="CCN0DATAm5xw3YuDV8w9-107" vertex="1">
           <mxGeometry x="-660" y="830" width="105" height="120" as="geometry" />
