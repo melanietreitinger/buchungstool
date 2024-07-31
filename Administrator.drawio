@@ -708,7 +708,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U2jb-RSi5WsM652t6KDA" name="Adminoberfläche">
-    <mxGraphModel dx="1880" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Backend Übersicht" id="1">
@@ -753,7 +753,7 @@
         <mxCell id="73b31XL_ingLZRUsvPe2-44" value="Rollen" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=0;strokeColor=#b85450;fillColor=#f8cecc;fontSize=14;fontStyle=1;rotation=0;resizeWidth=0;fixedWidth=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="330" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="73b31XL_ingLZRUsvPe2-2" value="Kalender" parent="0" visible="0" />
+        <mxCell id="73b31XL_ingLZRUsvPe2-2" value="Kalender" parent="0" />
         <mxCell id="73b31XL_ingLZRUsvPe2-47" value="" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="73b31XL_ingLZRUsvPe2-2">
           <mxGeometry x="10" y="380" width="810" height="710" as="geometry" />
         </mxCell>
@@ -761,12 +761,9 @@
           <mxGeometry x="9" y="150" width="810" height="100" as="geometry" />
         </mxCell>
         <mxCell id="73b31XL_ingLZRUsvPe2-3" value="möchte ich konfigurieren, ob es feste Slots für Prüfungen gibt oder nicht - wenn es feste Slots gibt, möchte ich diese sowohl als Serie anlegen können als auch individuell bearbeiten/löschen/hinzufügen." style="text;whiteSpace=wrap;" vertex="1" parent="73b31XL_ingLZRUsvPe2-2">
-          <mxGeometry x="830" y="510" width="560" height="70" as="geometry" />
+          <mxGeometry x="190" y="500" width="560" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="73b31XL_ingLZRUsvPe2-4" value="möchte ich die URL und den Webservice-Token für das Exam-System konfigurieren können" style="text;whiteSpace=wrap;" vertex="1" parent="73b31XL_ingLZRUsvPe2-2">
-          <mxGeometry x="840" y="440" width="520" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="73b31XL_ingLZRUsvPe2-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="73b31XL_ingLZRUsvPe2-2" source="73b31XL_ingLZRUsvPe2-46" target="73b31XL_ingLZRUsvPe2-47">
+        <mxCell id="73b31XL_ingLZRUsvPe2-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.666;entryY=0.003;entryDx=0;entryDy=0;exitX=0.668;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="73b31XL_ingLZRUsvPe2-2" source="73b31XL_ingLZRUsvPe2-46" target="73b31XL_ingLZRUsvPe2-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="73b31XL_ingLZRUsvPe2-49" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Kalender&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="73b31XL_ingLZRUsvPe2-2">
@@ -782,10 +779,13 @@
           <mxGeometry x="20" y="930" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="73b31XL_ingLZRUsvPe2-63" value="möchte ich konfigurieren können, welche Informationen zu einer Prüfung in Kalenderdateien (*.ics) exportiert werden können" style="text;whiteSpace=wrap;" vertex="1" parent="73b31XL_ingLZRUsvPe2-2">
-          <mxGeometry x="840" y="780" width="560" height="50" as="geometry" />
+          <mxGeometry x="110" y="820" width="560" height="50" as="geometry" />
         </mxCell>
         <mxCell id="73b31XL_ingLZRUsvPe2-64" value="Automatische Benachrichtigung an &quot;Rolle&quot; soll auch an&amp;nbsp; die Entscheidungskompetenz des Service-Teams weiterleitbar sein." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="73b31XL_ingLZRUsvPe2-2">
-          <mxGeometry x="1070" y="480" width="140" height="160" as="geometry" />
+          <mxGeometry x="660" y="950" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ewz_xF5JasrlfMMQasoq-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;möchte ich die URL und den Webservice-Token für das Exam-System konfigurieren können&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;labelBackgroundColor=none;" vertex="1" parent="73b31XL_ingLZRUsvPe2-2">
+          <mxGeometry x="670" y="400" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="73b31XL_ingLZRUsvPe2-15" value="Ressourcen" parent="0" />
         <mxCell id="73b31XL_ingLZRUsvPe2-54" value="" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="73b31XL_ingLZRUsvPe2-15">
@@ -821,7 +821,7 @@
         <mxCell id="73b31XL_ingLZRUsvPe2-69" value="Zeitslots sollen konfigurierbar sein - und die Reihnfolge soll linear wählbar sein (erst Slot 1, dann Slot 2 ..." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="73b31XL_ingLZRUsvPe2-15">
           <mxGeometry x="994" y="500" width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="73b31XL_ingLZRUsvPe2-17" value="Checkliste" parent="0" visible="0" />
+        <mxCell id="73b31XL_ingLZRUsvPe2-17" value="Checkliste" parent="0" />
         <mxCell id="73b31XL_ingLZRUsvPe2-58" value="" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="73b31XL_ingLZRUsvPe2-17">
           <mxGeometry x="8" y="320" width="810" height="50" as="geometry" />
         </mxCell>
@@ -832,10 +832,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="73b31XL_ingLZRUsvPe2-61" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Checkliste&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="73b31XL_ingLZRUsvPe2-17">
-          <mxGeometry x="-812.5" y="340" width="81" height="30" as="geometry" />
+          <mxGeometry x="-812.5" y="320" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="73b31XL_ingLZRUsvPe2-62" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Rollen&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="73b31XL_ingLZRUsvPe2-17">
-          <mxGeometry x="-812.5" y="950" width="110" height="30" as="geometry" />
+          <mxGeometry x="-812.5" y="490" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
