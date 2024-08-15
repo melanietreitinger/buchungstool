@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T13:36:44.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="XhhhqLXvJxY_pslNXkJR" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.7">
   <diagram name="Seite-1" id="cYS-9EuOB4i6pcKZ9MJi">
-    <mxGraphModel dx="3088" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4417" dy="2829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -698,8 +698,8 @@
         <mxCell id="lnfbFhsjXDdaq4weImcf-1" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="186.54999999999998" y="-376" width="22.3" height="30.5" as="geometry" />
         </mxCell>
-        <mxCell id="lnfbFhsjXDdaq4weImcf-22" value="&lt;div&gt;Detailpunkte(verringerte Version der Detailübersicht vom Service-Team) &lt;br&gt;&lt;/div&gt;&lt;div&gt;- gemeinsam entscheiden welche Details zusätzlich übernommen werden sollen &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="625" y="-631" width="185" height="231" as="geometry" />
+        <mxCell id="lnfbFhsjXDdaq4weImcf-22" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Detailpunkte(verringerte Version der Detailübersicht vom Service-Team) &lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;- gemeinsam entscheiden welche Details zusätzlich übernommen werden sollen &lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="625" y="-580" width="185" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
