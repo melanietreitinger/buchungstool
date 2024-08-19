@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.7" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="2">
   <diagram name="Kalender" id="cYS-9EuOB4i6pcKZ9MJi">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4474" dy="2681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,7 +308,7 @@
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-116" value="&lt;font size=&quot;1&quot;&gt;&lt;u style=&quot;font-size: 14px;&quot;&gt;Bearbeiten&lt;/u&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#0085FC;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="529" y="-60" width="110" height="30.6" as="geometry" />
         </mxCell>
-        <mxCell id="55VcoNajXq4q3Io8COJS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#999999;" edge="1" parent="1" source="hZRU2H-SfIQ9f5EC4YqQ-124" target="hZRU2H-SfIQ9f5EC4YqQ-126">
+        <mxCell id="55VcoNajXq4q3Io8COJS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#999999;" parent="1" source="hZRU2H-SfIQ9f5EC4YqQ-124" target="hZRU2H-SfIQ9f5EC4YqQ-126" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-124" value="&lt;div&gt;&lt;font size=&quot;1&quot; color=&quot;#4f688c&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Checkliste&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#6c8ebf;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#dae8fc;whiteSpace=wrap;" parent="1" vertex="1">
@@ -613,7 +613,7 @@
         <mxCell id="6n-yQPafIiMLYWiK96yH-94" value="E-Assessment-Center" style="rounded=1;fillColor=#F1F2F4;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="348" y="-448" width="276" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="55VcoNajXq4q3Io8COJS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#999999;strokeColor=#999999;" edge="1" parent="1" source="6n-yQPafIiMLYWiK96yH-100" target="6n-yQPafIiMLYWiK96yH-71">
+        <mxCell id="55VcoNajXq4q3Io8COJS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#999999;strokeColor=#999999;" parent="1" source="6n-yQPafIiMLYWiK96yH-100" target="6n-yQPafIiMLYWiK96yH-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6n-yQPafIiMLYWiK96yH-100" value="in Bearbeitung" style="rounded=1;fillColor=#F1F2F4;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;sketch=0;" parent="1" vertex="1">
@@ -666,8 +666,11 @@
         <mxCell id="GL-Xzq4RdFvb2JdrkEgy-1" value="Anzeige der Gesamt-Terminliste analog zu &quot;Buchende&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-770" y="-124.2" width="530" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="55VcoNajXq4q3Io8COJS-1" value="&lt;div&gt;Nach dem Speichern sollte angezeigt werden, dass die Änderungen erfolgreich übernommen wurden.&lt;/div&gt;&lt;div&gt;Beim Speichern wird auch überprüft, ob alle Felder, die erforderlich sind, gesetzt sind.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="55VcoNajXq4q3Io8COJS-1" value="&lt;div&gt;Nach dem Speichern sollte angezeigt werden, dass die Änderungen erfolgreich übernommen wurden.&lt;/div&gt;&lt;div&gt;Beim Speichern wird auch überprüft, ob alle Felder, die erforderlich sind, gesetzt sind.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="740" y="-64.2" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hpw4elqOgBrOuqeuDUK0-1" value="Service-Team: möchte ich eine Übersicht mit allen Ressourcenbuchungen je Zeitslot haben" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-724.9999999999999" y="-47" width="440" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
