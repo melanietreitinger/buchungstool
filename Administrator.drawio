@@ -1162,40 +1162,40 @@
         </mxCell>
         <mxCell id="73b31XL_ingLZRUsvPe2-15" value="Ressourcen" style="locked=1;" parent="0" />
         <mxCell id="73b31XL_ingLZRUsvPe2-54" value="" style="whiteSpace=wrap;html=1;fillColor=none;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="994" y="456" width="656" height="1124" as="geometry" />
+          <mxGeometry x="840" y="260" width="656" height="1124" as="geometry" />
         </mxCell>
         <mxCell id="W4n8uUhv5gXpcUFEAnYs-78" value="Beim Anlegen eines Prüfungskurses (aus Template) wird über die Funktion der &quot;Manuellen Einschreibung&quot; die eingeschriebenen Personen per Mail informiert" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1617" y="1200" width="203" height="100" as="geometry" />
+          <mxGeometry x="1461" y="1004" width="187" height="100" as="geometry" />
         </mxCell>
         <mxCell id="W4n8uUhv5gXpcUFEAnYs-26" value="Darin befindliche Kurs-Templates aktivieren:" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1014" y="1300" width="270" height="30" as="geometry" />
+          <mxGeometry x="860" y="1104" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4n8uUhv5gXpcUFEAnYs-27" value="Das Kurstemplate wird in dem Kursbereich angelegt (automatisch), in dem auch der Kurs das Kalenderplugins abgelegt ist." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1617" y="1320" width="220" height="70" as="geometry" />
+          <mxGeometry x="1461" y="1124" width="187" height="86" as="geometry" />
         </mxCell>
         <mxCell id="W4n8uUhv5gXpcUFEAnYs-72" value="&lt;div&gt;Ressourcen-Kategorien: Raum, Software, Hardware, Nachteilsausgleich, Barrierefreier Arbeitsplatz, ....&amp;nbsp;&lt;/div&gt;&lt;div&gt;- mit je einem eigenen Ressourcen-Blatt&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1014" y="850" width="710" height="30" as="geometry" />
+          <mxGeometry x="860" y="654" width="710" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4n8uUhv5gXpcUFEAnYs-73" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Fakultäten / Einrichtungen&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=#82b366;align=left;fillColor=#d5e8d4;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1014" y="1450" width="200" height="30" as="geometry" />
+          <mxGeometry x="860" y="1254" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4n8uUhv5gXpcUFEAnYs-74" value="Einrichtungen und Fakultäten - Stamm-Kursbereich:" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1014" y="1510" width="310" height="30" as="geometry" />
+          <mxGeometry x="860" y="1314" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="73b31XL_ingLZRUsvPe2-56" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Prüfungsräume&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=#82b366;align=left;fillColor=#d5e8d4;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1014" y="470" width="120" height="30" as="geometry" />
+          <mxGeometry x="860" y="274" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="73b31XL_ingLZRUsvPe2-57" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Ressourcen&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=#82b366;align=left;fillColor=#d5e8d4;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1014" y="799" width="110" height="30" as="geometry" />
+          <mxGeometry x="860" y="603" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="73b31XL_ingLZRUsvPe2-66" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Prüfungskurs&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=#82b366;align=left;fillColor=#d5e8d4;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1014" y="1169" width="110" height="30" as="geometry" />
+          <mxGeometry x="860" y="973" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ewz_xF5JasrlfMMQasoq-119" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Neuen Prüfungsraum anlegen / bearbeiten&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1010" y="511" width="280" height="30" as="geometry" />
+          <mxGeometry x="856" y="315" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ewz_xF5JasrlfMMQasoq-120" value="Prüfungsräume" style="swimlane;strokeColor=#999999;swimlaneFillColor=#FFFFFF;fillColor=#ffffff;fontColor=#000000;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fontSize=17;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1014" y="550" width="155" height="130" as="geometry" />
+          <mxGeometry x="860" y="354" width="155" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ewz_xF5JasrlfMMQasoq-123" value="Neuer Raum" style="text;spacing=0;strokeColor=#666666;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=#f5f5f5;fontColor=#333333;fontSize=13;" parent="ewz_xF5JasrlfMMQasoq-120" vertex="1">
           <mxGeometry y="30" width="155" height="20" as="geometry" />
@@ -1213,16 +1213,16 @@
           <mxGeometry y="110" width="155" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ewz_xF5JasrlfMMQasoq-143" value="" style="whiteSpace=wrap;html=1;fillColor=#F9F7ED;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1214" y="550" width="380" height="170" as="geometry" />
+          <mxGeometry x="1060" y="354" width="380" height="170" as="geometry" />
         </mxCell>
         <mxCell id="JIG27jCXMRdYl5VGxWZt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;" parent="73b31XL_ingLZRUsvPe2-15" source="ewz_xF5JasrlfMMQasoq-121" target="ewz_xF5JasrlfMMQasoq-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JIG27jCXMRdYl5VGxWZt-2" value="Prüfungsraum Formular (neu / bearbeiten)" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1214" y="550" width="280" height="30" as="geometry" />
+          <mxGeometry x="1060" y="354" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JIG27jCXMRdYl5VGxWZt-8" value="" style="group;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1" connectable="0">
-          <mxGeometry x="1214" y="680" width="360" height="30" as="geometry" />
+          <mxGeometry x="1060" y="484" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JIG27jCXMRdYl5VGxWZt-3" value="&lt;font face=&quot;Helvetica&quot;&gt;von&lt;/font&gt;" style="rounded=0;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#4D4D4D;html=1;strokeWidth=1;fontColor=#596780;fontSize=12;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rotation=0;" parent="JIG27jCXMRdYl5VGxWZt-8" vertex="1">
           <mxGeometry x="150" y="5" width="100" height="20" as="geometry" />
@@ -1244,34 +1244,34 @@
           <mxGeometry width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JIG27jCXMRdYl5VGxWZt-9" value="Bezeichnung Raum:" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1214" y="580" width="140" height="30" as="geometry" />
+          <mxGeometry x="1060" y="384" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JIG27jCXMRdYl5VGxWZt-10" value="Anzahl Plätze:" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1214" y="610" width="140" height="30" as="geometry" />
+          <mxGeometry x="1060" y="414" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JIG27jCXMRdYl5VGxWZt-11" value="Ausstattung:" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1214" y="640" width="140" height="30" as="geometry" />
+          <mxGeometry x="1060" y="444" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JIG27jCXMRdYl5VGxWZt-12" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;PC-Pool SoWi&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;rotation=0;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1354" y="585" width="220" height="25" as="geometry" />
+          <mxGeometry x="1200" y="389" width="220" height="25" as="geometry" />
         </mxCell>
         <mxCell id="JIG27jCXMRdYl5VGxWZt-13" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;25&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;rotation=0;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1354" y="615" width="220" height="25" as="geometry" />
+          <mxGeometry x="1200" y="419" width="220" height="25" as="geometry" />
         </mxCell>
         <mxCell id="JIG27jCXMRdYl5VGxWZt-14" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Beamer, Barrierefreier Arbeitsplatz&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;rotation=0;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1354" y="645" width="220" height="25" as="geometry" />
+          <mxGeometry x="1200" y="449" width="220" height="25" as="geometry" />
         </mxCell>
         <mxCell id="7PANxu5txrci8HXPYn8F-36" value="&lt;div&gt;Bei der Installation des Plugins existiert bereits ein Standardraum!&lt;/div&gt;&lt;div&gt;Bei diesem Raum ist die Anzahl der Plätze leer (=unbestimmt). Dies hat die gleiche Bedeutung wie &quot;unendlich viele&quot;.&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;labelBackgroundColor=none;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1610" y="521" width="210" height="110" as="geometry" />
+          <mxGeometry x="1454" y="325" width="194" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7PANxu5txrci8HXPYn8F-37" value="&quot;Buchbar im Zeitraum&quot; sollte vielleicht besser ein Textfeld sein, da sich Daten je nach Semester ändern können oder es ggf mehrere Zeiträume gibt." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;labelBackgroundColor=none;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1610" y="661" width="210" height="110" as="geometry" />
+          <mxGeometry x="1454" y="465" width="194" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7PANxu5txrci8HXPYn8F-48" value="" style="whiteSpace=wrap;html=1;fillColor=#F9F7ED;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1212" y="897" width="380" height="243" as="geometry" />
+          <mxGeometry x="1058" y="701" width="380" height="243" as="geometry" />
         </mxCell>
         <mxCell id="7PANxu5txrci8HXPYn8F-55" value="" style="group;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1" connectable="0">
-          <mxGeometry x="1217" y="1030" width="360" height="30" as="geometry" />
+          <mxGeometry x="1063" y="834" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7PANxu5txrci8HXPYn8F-68" value="" style="group" parent="7PANxu5txrci8HXPYn8F-55" vertex="1" connectable="0">
           <mxGeometry y="35" width="360" height="30" as="geometry" />
@@ -1283,13 +1283,13 @@
           <mxGeometry x="140" y="5" width="220" height="25" as="geometry" />
         </mxCell>
         <mxCell id="7PANxu5txrci8HXPYn8F-61" value="Ressourcen Formular (neu / bearbeiten)" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1218" y="900" width="280" height="30" as="geometry" />
+          <mxGeometry x="1064" y="704" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7PANxu5txrci8HXPYn8F-64" value="Kategorie" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1218" y="934" width="140" height="30" as="geometry" />
+          <mxGeometry x="1064" y="738" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7PANxu5txrci8HXPYn8F-65" value="Raum" style="rounded=1;fillColor=#F1F2F4;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;sketch=0;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1358" y="929" width="140" height="33" as="geometry" />
+          <mxGeometry x="1204" y="733" width="140" height="33" as="geometry" />
         </mxCell>
         <mxCell id="7PANxu5txrci8HXPYn8F-66" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1;sketch=0;" parent="7PANxu5txrci8HXPYn8F-65" vertex="1">
           <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
@@ -1297,7 +1297,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7PANxu5txrci8HXPYn8F-67" value="" style="group" parent="73b31XL_ingLZRUsvPe2-15" vertex="1" connectable="0">
-          <mxGeometry x="1217" y="965" width="360" height="94" as="geometry" />
+          <mxGeometry x="1063" y="769" width="360" height="94" as="geometry" />
         </mxCell>
         <mxCell id="7PANxu5txrci8HXPYn8F-49" value="Prüfungsraum 2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=13;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;rotation=0;" parent="7PANxu5txrci8HXPYn8F-67" vertex="1">
           <mxGeometry x="140" y="5" width="220" height="25" as="geometry" />
@@ -1318,7 +1318,7 @@
           <mxGeometry x="140" y="67" width="220" height="25" as="geometry" />
         </mxCell>
         <mxCell id="7PANxu5txrci8HXPYn8F-69" value="Neue Eigenschaft anlegen" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#f5f5f5;align=center;strokeColor=#666666;fontColor=#333333;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1217" y="1110" width="150" height="16.88" as="geometry" />
+          <mxGeometry x="1063" y="914" width="150" height="16.88" as="geometry" />
         </mxCell>
         <mxCell id="zIe-gnUzAXjqQEEWtdMN-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="73b31XL_ingLZRUsvPe2-15">
           <mxGeometry relative="1" as="geometry">
@@ -1327,13 +1327,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B0v0BBkhY2Y0SqvdK5l2-1" value="Kurs-Templates für Rrüfungen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="73b31XL_ingLZRUsvPe2-15">
-          <mxGeometry x="1320" y="1270" width="290" height="30" as="geometry" />
+          <mxGeometry x="1166" y="1074" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B0v0BBkhY2Y0SqvdK5l2-2" value="Kursbereich, in dem sich Kurs-Templates befinden:" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="73b31XL_ingLZRUsvPe2-15">
-          <mxGeometry x="1014" y="1270" width="310" height="30" as="geometry" />
+          <mxGeometry x="860" y="1074" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B0v0BBkhY2Y0SqvdK5l2-7" value="" style="group" vertex="1" connectable="0" parent="73b31XL_ingLZRUsvPe2-15">
-          <mxGeometry x="1014" y="1210" width="526" height="30" as="geometry" />
+          <mxGeometry x="860" y="1014" width="526" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B0v0BBkhY2Y0SqvdK5l2-3" value="" style="group" vertex="1" connectable="0" parent="B0v0BBkhY2Y0SqvdK5l2-7">
           <mxGeometry x="466" y="10" width="60" height="10" as="geometry" />
@@ -1348,7 +1348,7 @@
           <mxGeometry width="446" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B0v0BBkhY2Y0SqvdK5l2-8" value="" style="group" vertex="1" connectable="0" parent="73b31XL_ingLZRUsvPe2-15">
-          <mxGeometry x="1014" y="1240" width="526" height="30" as="geometry" />
+          <mxGeometry x="860" y="1044" width="526" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B0v0BBkhY2Y0SqvdK5l2-9" value="" style="group" vertex="1" connectable="0" parent="B0v0BBkhY2Y0SqvdK5l2-8">
           <mxGeometry x="466" y="10" width="60" height="10" as="geometry" />
@@ -1363,7 +1363,7 @@
           <mxGeometry width="446" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B0v0BBkhY2Y0SqvdK5l2-13" value="" style="group" vertex="1" connectable="0" parent="73b31XL_ingLZRUsvPe2-15">
-          <mxGeometry x="1320" y="1310" width="290" height="120" as="geometry" />
+          <mxGeometry x="1166" y="1114" width="290" height="120" as="geometry" />
         </mxCell>
         <mxCell id="B0v0BBkhY2Y0SqvdK5l2-14" value="" style="swimlane;strokeColor=#999999;swimlaneFillColor=#FFFFFF;fillColor=#ffffff;fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-13">
           <mxGeometry width="290" height="120" as="geometry" />
@@ -1404,26 +1404,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B0v0BBkhY2Y0SqvdK5l2-24" value="Die darunter liegenden Kursbereiche sind je eine Einrichtung / Fakultät." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="73b31XL_ingLZRUsvPe2-15">
-          <mxGeometry x="1617" y="1500" width="140" height="70" as="geometry" />
+          <mxGeometry x="1463" y="1304" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="B0v0BBkhY2Y0SqvdK5l2-25" value="Kursbereich für Prüfungskurse SoSe 2024" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="73b31XL_ingLZRUsvPe2-15">
-          <mxGeometry x="1320" y="1510" width="280" height="30" as="geometry" />
+          <mxGeometry x="1166" y="1314" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PNCADngemcSBItdt-AgZ-1" value="Rollen" style="locked=1;" parent="0" />
         <mxCell id="PNCADngemcSBItdt-AgZ-6" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginTop=32;strokeColor=#666666;gradientColor=none;whiteSpace=wrap;container=0;" vertex="1" parent="PNCADngemcSBItdt-AgZ-1">
-          <mxGeometry x="-798" y="598.94" width="758" height="1461.06" as="geometry" />
+          <mxGeometry x="-798" y="417.81000000000006" width="758" height="1461.06" as="geometry" />
         </mxCell>
         <mxCell id="PNCADngemcSBItdt-AgZ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="PNCADngemcSBItdt-AgZ-1">
-          <mxGeometry x="-815" y="560" width="803.02" height="1500" as="geometry" />
+          <mxGeometry x="-815" y="378.87" width="803.02" height="1500" as="geometry" />
         </mxCell>
         <mxCell id="PNCADngemcSBItdt-AgZ-4" value="siehe Tabellenblatt &quot;Checkliste&quot;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="PNCADngemcSBItdt-AgZ-1">
-          <mxGeometry x="-790" y="476.1290322580645" width="110.00000000000001" height="69.6774193548387" as="geometry" />
+          <mxGeometry x="-790" y="294.9990322580645" width="110.00000000000001" height="69.6774193548387" as="geometry" />
         </mxCell>
         <mxCell id="PNCADngemcSBItdt-AgZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PNCADngemcSBItdt-AgZ-1" source="PNCADngemcSBItdt-AgZ-4" target="PNCADngemcSBItdt-AgZ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LwYINLZ5usQTUCK-NDIW-6" value="" style="group" vertex="1" connectable="0" parent="PNCADngemcSBItdt-AgZ-1">
-          <mxGeometry x="-759.7" y="651.4910773605317" width="631.1100000000001" height="300.9497265337659" as="geometry" />
+          <mxGeometry x="-759.7" y="470.3610773605317" width="631.1100000000001" height="300.9497265337659" as="geometry" />
         </mxCell>
         <mxCell id="LwYINLZ5usQTUCK-NDIW-7" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Vorhandene Rolle wählen:&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=none;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;fontSize=11;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Helvetica;" vertex="1" parent="LwYINLZ5usQTUCK-NDIW-6">
           <mxGeometry x="3.6999999999999993" y="47.262129253592875" width="170" height="21.44891676711482" as="geometry" />
@@ -1465,7 +1465,7 @@
           <mxGeometry x="93.7" y="129.87553045897076" width="149" height="171.0741960747952" as="geometry" />
         </mxCell>
         <mxCell id="LwYINLZ5usQTUCK-NDIW-51" value="" style="group" vertex="1" connectable="0" parent="PNCADngemcSBItdt-AgZ-1">
-          <mxGeometry x="-770" y="993.1810773605316" width="708.7000000000002" height="300.9497265337659" as="geometry" />
+          <mxGeometry x="-770" y="812.0510773605316" width="708.7000000000002" height="300.9497265337659" as="geometry" />
         </mxCell>
         <mxCell id="LwYINLZ5usQTUCK-NDIW-53" value="" style="group" vertex="1" connectable="0" parent="LwYINLZ5usQTUCK-NDIW-51">
           <mxGeometry width="708.7000000000002" height="300.9497265337659" as="geometry" />
@@ -1483,7 +1483,7 @@
           <mxGeometry x="294" y="38.84" width="138.89" height="131.16" as="geometry" />
         </mxCell>
         <mxCell id="LwYINLZ5usQTUCK-NDIW-82" value="" style="group" vertex="1" connectable="0" parent="PNCADngemcSBItdt-AgZ-1">
-          <mxGeometry x="-770" y="1680.0010773605318" width="641.1099999999999" height="320.0601187451706" as="geometry" />
+          <mxGeometry x="-770" y="1498.8710773605317" width="641.1099999999999" height="320.0601187451706" as="geometry" />
         </mxCell>
         <mxCell id="LwYINLZ5usQTUCK-NDIW-83" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Vorhandene Rolle wählen:&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=none;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;fontSize=11;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Helvetica;" vertex="1" parent="LwYINLZ5usQTUCK-NDIW-82">
           <mxGeometry x="3.6999999999999993" y="47.262129253592875" width="170" height="21.44891676711482" as="geometry" />
@@ -1531,12 +1531,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PNCADngemcSBItdt-AgZ-7" value="Checkliste" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=14;fontColor=#666666;gradientColor=none;fontStyle=1" vertex="1" parent="PNCADngemcSBItdt-AgZ-1">
-          <mxGeometry x="-784" y="598.94" width="100" height="25" as="geometry">
+          <mxGeometry x="-784" y="417.81000000000006" width="100" height="25" as="geometry">
             <mxPoint x="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PNCADngemcSBItdt-AgZ-8" value="Rollen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=14;fontColor=#000000;strokeColor=#EA6B66;fillColor=#F8CECC;fontStyle=1" vertex="1" parent="PNCADngemcSBItdt-AgZ-1">
-          <mxGeometry x="-689" y="598.94" width="60" height="25" as="geometry">
+          <mxGeometry x="-689" y="417.81000000000006" width="60" height="25" as="geometry">
             <mxPoint x="109" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1546,7 +1546,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LwYINLZ5usQTUCK-NDIW-67" value="" style="group" vertex="1" connectable="0" parent="PNCADngemcSBItdt-AgZ-1">
-          <mxGeometry x="-770.0046616541354" y="1259.998966540922" width="617.0081203007518" height="339.5899720696665" as="geometry" />
+          <mxGeometry x="-770.0046616541354" y="1078.868966540922" width="617.0081203007518" height="339.5899720696665" as="geometry" />
         </mxCell>
         <mxCell id="LwYINLZ5usQTUCK-NDIW-68" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Vorhandene Rolle wählen:&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=none;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;fontSize=11;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Helvetica;" vertex="1" parent="LwYINLZ5usQTUCK-NDIW-67">
           <mxGeometry x="3.560902255639097" y="50.146032614451585" width="163.60902255639098" height="22.757715251828856" as="geometry" />
