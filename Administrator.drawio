@@ -1409,7 +1409,7 @@
         <mxCell id="B0v0BBkhY2Y0SqvdK5l2-25" value="Kursbereich für Prüfungskurse SoSe 2024" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="73b31XL_ingLZRUsvPe2-15">
           <mxGeometry x="1320" y="1510" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PNCADngemcSBItdt-AgZ-1" value="Rollen" style="" parent="0" />
+        <mxCell id="PNCADngemcSBItdt-AgZ-1" value="Rollen" style="locked=1;" parent="0" />
         <mxCell id="PNCADngemcSBItdt-AgZ-6" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginTop=32;strokeColor=#666666;gradientColor=none;whiteSpace=wrap;container=0;" vertex="1" parent="PNCADngemcSBItdt-AgZ-1">
           <mxGeometry x="-798" y="598.94" width="758" height="1461.06" as="geometry" />
         </mxCell>
