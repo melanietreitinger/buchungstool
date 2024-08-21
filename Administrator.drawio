@@ -1162,25 +1162,25 @@
         </mxCell>
         <mxCell id="73b31XL_ingLZRUsvPe2-15" value="Ressourcen" style="" parent="0" />
         <mxCell id="73b31XL_ingLZRUsvPe2-54" value="" style="whiteSpace=wrap;html=1;fillColor=none;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="994" y="456" width="656" height="1074" as="geometry" />
+          <mxGeometry x="994" y="456" width="656" height="1124" as="geometry" />
         </mxCell>
         <mxCell id="W4n8uUhv5gXpcUFEAnYs-78" value="Beim Anlegen eines Prüfungskurses (aus Template) wird über die Funktion der &quot;Manuellen Einschreibung&quot; die eingeschriebenen Personen per Mail informiert" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1077" y="1570" width="203" height="100" as="geometry" />
+          <mxGeometry x="1617" y="1200" width="203" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="W4n8uUhv5gXpcUFEAnYs-26" value="Vorhanden Kurstemplates (Liste)" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1030" y="1213" width="240" height="30" as="geometry" />
+        <mxCell id="W4n8uUhv5gXpcUFEAnYs-26" value="Darin befindliche Kurs-Templates aktivieren:" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
+          <mxGeometry x="1014" y="1300" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W4n8uUhv5gXpcUFEAnYs-27" value="Das Kurstemplate wird in dem Kursbereich angelegt (automatisch), in dem auch der Kurs das Kalenderplaugins abgelegt ist." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1367" y="1600" width="220" height="70" as="geometry" />
+        <mxCell id="W4n8uUhv5gXpcUFEAnYs-27" value="Das Kurstemplate wird in dem Kursbereich angelegt (automatisch), in dem auch der Kurs das Kalenderplugins abgelegt ist." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
+          <mxGeometry x="1617" y="1320" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="W4n8uUhv5gXpcUFEAnYs-72" value="&lt;div&gt;Ressourcen-Kategorien: Raum, Software, Hardware, Nachteilsausgleich, Barrierefreier Arbeitsplatz, ....&amp;nbsp;&lt;/div&gt;&lt;div&gt;- mit je einem eigenen Ressourcen-Blatt&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
           <mxGeometry x="1014" y="850" width="710" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4n8uUhv5gXpcUFEAnYs-73" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Fakultäten / Einrichtungen&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=#82b366;align=left;fillColor=#d5e8d4;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1010" y="1360" width="200" height="30" as="geometry" />
+          <mxGeometry x="1014" y="1450" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W4n8uUhv5gXpcUFEAnYs-74" value="Anbindung an Kursbereich-Bereich (im Management-Modus)" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
-          <mxGeometry x="1030" y="1410" width="370" height="30" as="geometry" />
+        <mxCell id="W4n8uUhv5gXpcUFEAnYs-74" value="Einrichtungen und Fakultäten - Stamm-Kursbereich:" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
+          <mxGeometry x="1014" y="1510" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="73b31XL_ingLZRUsvPe2-56" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Prüfungsräume&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=#82b366;align=left;fillColor=#d5e8d4;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
           <mxGeometry x="1014" y="470" width="120" height="30" as="geometry" />
@@ -1325,6 +1325,89 @@
             <mxPoint x="995" y="485" as="targetPoint" />
             <mxPoint x="601" y="370" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-1" value="Kurs-Templates für Rrüfungen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="73b31XL_ingLZRUsvPe2-15">
+          <mxGeometry x="1320" y="1270" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-2" value="Kursbereich, in dem sich Kurs-Templates befinden:" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="73b31XL_ingLZRUsvPe2-15">
+          <mxGeometry x="1014" y="1270" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-7" value="" style="group" vertex="1" connectable="0" parent="73b31XL_ingLZRUsvPe2-15">
+          <mxGeometry x="1014" y="1210" width="526" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-3" value="" style="group" vertex="1" connectable="0" parent="B0v0BBkhY2Y0SqvdK5l2-7">
+          <mxGeometry x="466" y="10" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-4" value="nein" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;fontSize=14;" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-3">
+          <mxGeometry width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-5" value="ja" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;fontSize=14;" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-3">
+          <mxGeometry x="50" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-6" value="Neuer Prüfungskurs wird angelegt (bei Aktivierung des Status &quot;Bestätigt&quot;):" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-7">
+          <mxGeometry width="446" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-8" value="" style="group" vertex="1" connectable="0" parent="73b31XL_ingLZRUsvPe2-15">
+          <mxGeometry x="1014" y="1240" width="526" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-9" value="" style="group" vertex="1" connectable="0" parent="B0v0BBkhY2Y0SqvdK5l2-8">
+          <mxGeometry x="466" y="10" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-10" value="nein" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;fontSize=14;" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-9">
+          <mxGeometry width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-11" value="ja" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;fontSize=14;" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-9">
+          <mxGeometry x="50" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-12" value="Verwendung von Kurs-Templates aktivieren:" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-8">
+          <mxGeometry width="446" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-13" value="" style="group" vertex="1" connectable="0" parent="73b31XL_ingLZRUsvPe2-15">
+          <mxGeometry x="1320" y="1310" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-14" value="" style="swimlane;strokeColor=#999999;swimlaneFillColor=#FFFFFF;fillColor=#ffffff;fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-13">
+          <mxGeometry width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-15" value="Kursvorlage: Hausarbeiten" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=inherit;fontSize=12;fixDash=0;" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-14">
+          <mxGeometry width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-16" value="x" style="resizable=0;fillColor=#EEEEEE;strokeColor=#999999;gradientColor=#cccccc;html=1;noLabel=0;" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-15">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="8" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-17" value="Kursvorlage: Test für Fernprüfungen" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=none;fontColor=inherit;fontSize=12;" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-14">
+          <mxGeometry y="30" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-18" value="x" style="resizable=0;fillColor=#EEEEEE;strokeColor=#999999;gradientColor=#cccccc;html=1;" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-17">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="8" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-19" value="Kursvorlage: Test für Fernprüfungen mit NTA" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=inherit;fontSize=12;" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-14">
+          <mxGeometry y="60" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-20" value="x" style="resizable=0;fillColor=#EEEEEE;strokeColor=#999999;gradientColor=#cccccc;html=1;" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-19">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="8" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-21" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=inherit;fontSize=13;" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-14">
+          <mxGeometry y="90" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-22" value="Kursvorlage: Test mit Self Exam Browser" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=inherit;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-13">
+          <mxGeometry y="89" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-23" value="" style="resizable=0;fillColor=none;strokeColor=#999999;gradientColor=none;html=1;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;fontFamily=Helvetica;fontSize=13;fontColor=inherit;" vertex="1" parent="B0v0BBkhY2Y0SqvdK5l2-22">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="8" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-24" value="Die darunter liegenden Kursbereiche sind je eine Einrichtung / Fakultät." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="73b31XL_ingLZRUsvPe2-15">
+          <mxGeometry x="1617" y="1500" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="B0v0BBkhY2Y0SqvdK5l2-25" value="Kursbereich für Prüfungskurse SoSe 2024" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="73b31XL_ingLZRUsvPe2-15">
+          <mxGeometry x="1320" y="1510" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PNCADngemcSBItdt-AgZ-1" value="Rollen" style="locked=1;" parent="0" />
         <mxCell id="PNCADngemcSBItdt-AgZ-2" value="" style="group" vertex="1" connectable="0" parent="PNCADngemcSBItdt-AgZ-1">
