@@ -1409,7 +1409,7 @@
         <mxCell id="B0v0BBkhY2Y0SqvdK5l2-25" value="Kursbereich für Prüfungskurse SoSe 2024" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=12;spacingLeft=3;" vertex="1" parent="73b31XL_ingLZRUsvPe2-15">
           <mxGeometry x="1166" y="1314" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PNCADngemcSBItdt-AgZ-1" value="Rollen" style="locked=1;" parent="0" />
+        <mxCell id="PNCADngemcSBItdt-AgZ-1" value="Rollen" style="" parent="0" />
         <mxCell id="PNCADngemcSBItdt-AgZ-6" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginTop=32;strokeColor=#666666;gradientColor=none;whiteSpace=wrap;container=0;" vertex="1" parent="PNCADngemcSBItdt-AgZ-1">
           <mxGeometry x="-798" y="417.81000000000006" width="758" height="1461.06" as="geometry" />
         </mxCell>
@@ -1530,14 +1530,9 @@
             <mxPoint x="359" y="430" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PNCADngemcSBItdt-AgZ-7" value="Checkliste" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=14;fontColor=#666666;gradientColor=none;fontStyle=1" vertex="1" parent="PNCADngemcSBItdt-AgZ-1">
+        <mxCell id="PNCADngemcSBItdt-AgZ-7" value="Checkliste" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=14;fontColor=#666666;gradientColor=none;fontStyle=1" vertex="1" parent="PNCADngemcSBItdt-AgZ-1">
           <mxGeometry x="-784" y="417.81000000000006" width="100" height="25" as="geometry">
             <mxPoint x="14" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PNCADngemcSBItdt-AgZ-8" value="Rollen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=14;fontColor=#000000;strokeColor=#EA6B66;fillColor=#F8CECC;fontStyle=1" vertex="1" parent="PNCADngemcSBItdt-AgZ-1">
-          <mxGeometry x="-689" y="417.81000000000006" width="60" height="25" as="geometry">
-            <mxPoint x="109" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PNCADngemcSBItdt-AgZ-9" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.topButton;rSize=5;strokeColor=#F8CECC;fillColor=#F8CECC;gradientColor=none;resizeWidth=1;movable=0;deletable=1;" vertex="1" parent="PNCADngemcSBItdt-AgZ-1">
@@ -1589,6 +1584,11 @@
         </mxCell>
         <mxCell id="LwYINLZ5usQTUCK-NDIW-3" value="Abhängig davon, ob der Moodle-Kalender (Querverbindungen zu anderen Kurskalendern) oder ein externer Kalender genutzt wird." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="LwYINLZ5usQTUCK-NDIW-69">
           <mxGeometry x="482.2712781954887" y="148.54270590209447" width="124.04451127819547" height="130.6433098408921" as="geometry" />
+        </mxCell>
+        <mxCell id="LwYINLZ5usQTUCK-NDIW-98" value="&lt;u&gt;Rollen&lt;/u&gt;" style="strokeColor=#b85450;fillColor=#f8cecc;strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=14;gradientColor=none;fontStyle=1" vertex="1" parent="PNCADngemcSBItdt-AgZ-1">
+          <mxGeometry x="-680" y="417.81000000000006" width="100" height="25" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
