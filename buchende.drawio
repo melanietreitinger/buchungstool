@@ -775,7 +775,7 @@
         <mxCell id="HSe4UDjtnV36XrPr70aD-4" value="9" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" parent="N64B7SWwX6CFY86yBuNC-189" vertex="1">
           <mxGeometry x="31" y="69" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CCN0DATAm5xw3YuDV8w9-1" value="Buchungsformular" style="locked=1;" parent="0" />
+        <mxCell id="CCN0DATAm5xw3YuDV8w9-1" value="Buchungsformular" style="" parent="0" />
         <mxCell id="tTCCTxN9szVMtPMrQivX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CCN0DATAm5xw3YuDV8w9-1" target="CCN0DATAm5xw3YuDV8w9-85" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="1490" as="sourcePoint" />
@@ -1263,7 +1263,7 @@
         <mxCell id="E5n5l_pNPNdarSbbSDyr-4" value="3" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="HSe4UDjtnV36XrPr70aD-10" vertex="1">
           <mxGeometry x="359" y="510" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CCN0DATAm5xw3YuDV8w9-107" value="Eigene Termine" style="" parent="0" />
+        <mxCell id="CCN0DATAm5xw3YuDV8w9-107" value="Eigene Termine" style="locked=1;" parent="0" />
         <mxCell id="CCN0DATAm5xw3YuDV8w9-108" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Terminübersicht Persönliche Termin (Liste unterhalb des Kalenders)&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="CCN0DATAm5xw3YuDV8w9-107" vertex="1">
           <mxGeometry x="-827" y="420" width="827" height="60" as="geometry" />
         </mxCell>
