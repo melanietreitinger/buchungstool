@@ -3,7 +3,7 @@
     <mxGraphModel dx="2246" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" value="Checkliste" style="" parent="0" />
+        <mxCell id="1" value="Checkliste" style="locked=1;" parent="0" />
         <mxCell id="95HuahfwG-BCZ0HRhhbP-1" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Mockup Checkliste: Administrator&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry y="20" width="827" height="70" as="geometry" />
         </mxCell>
@@ -379,7 +379,7 @@
         <mxCell id="vsnqipQW3Ia_qhW0I_OS-1" value="ToDos:&lt;br&gt;2 Spalten in Übersicht: Raum und verantwortende Rolle&lt;div&gt;Im Editfenster noch &quot;Raum&quot;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="920" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="h2HBl5gkmupRguE7wDUX-108" value="Checklisten-Optionen" style="locked=1;" parent="0" />
+        <mxCell id="h2HBl5gkmupRguE7wDUX-108" value="Checklisten-Optionen" style="" parent="0" />
         <mxCell id="h2HBl5gkmupRguE7wDUX-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="h2HBl5gkmupRguE7wDUX-108" target="h2HBl5gkmupRguE7wDUX-112" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="360" as="sourcePoint" />
@@ -392,7 +392,7 @@
         <mxCell id="h2HBl5gkmupRguE7wDUX-111" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#36393d;shadow=0;dashed=0;strokeWidth=2;fillColor=#f9f7ed;" parent="h2HBl5gkmupRguE7wDUX-108" vertex="1">
           <mxGeometry x="944.77" y="287.28" width="530" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="h2HBl5gkmupRguE7wDUX-112" value="Checklistenelement bearbeiten" style="text;strokeColor=#36393d;align=center;fillColor=#cce5ff;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="h2HBl5gkmupRguE7wDUX-108" vertex="1">
+        <mxCell id="h2HBl5gkmupRguE7wDUX-112" value="Checklistenpunkt bearbeiten" style="text;strokeColor=#36393d;align=center;fillColor=#cce5ff;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="h2HBl5gkmupRguE7wDUX-108" vertex="1">
           <mxGeometry x="944.77" y="245.998905109489" width="210" height="41.277372262773724" as="geometry" />
         </mxCell>
         <mxCell id="h2HBl5gkmupRguE7wDUX-114" value="Bezeichnung" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="h2HBl5gkmupRguE7wDUX-108" vertex="1">
@@ -431,7 +431,7 @@
         <mxCell id="SF6q-6VZULmL_obWjuGS-65" value="Checklisten-Kategorie (muss angelegt sein)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" parent="SF6q-6VZULmL_obWjuGS-117" vertex="1">
           <mxGeometry x="130" width="300" height="41.28" as="geometry" />
         </mxCell>
-        <mxCell id="SF6q-6VZULmL_obWjuGS-211" value="Checklistenkategorie bearbeiten" style="text;strokeColor=#36393d;align=center;fillColor=#cce5ff;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="h2HBl5gkmupRguE7wDUX-108" vertex="1">
+        <mxCell id="SF6q-6VZULmL_obWjuGS-211" value="Checklisten-Kategorie bearbeiten" style="text;strokeColor=#36393d;align=center;fillColor=#cce5ff;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="h2HBl5gkmupRguE7wDUX-108" vertex="1">
           <mxGeometry x="930" y="20" width="230" height="41.28" as="geometry" />
         </mxCell>
         <mxCell id="SF6q-6VZULmL_obWjuGS-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="h2HBl5gkmupRguE7wDUX-108" target="SF6q-6VZULmL_obWjuGS-210" edge="1">
