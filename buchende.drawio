@@ -1572,7 +1572,7 @@
         <mxCell id="TuoxUDgc9kxG5lUEJexI-114" value="&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;color: rgb(79, 104, 140); text-align: center;&quot;&gt;Eintrag gebuchter Termin (vom Buchenden)&lt;/span&gt;&lt;font color=&quot;#4f688c&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="CCN0DATAm5xw3YuDV8w9-107" vertex="1">
           <mxGeometry x="-660" y="828" width="105" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TuoxUDgc9kxG5lUEJexI-238" value="Checkliste" style="" parent="0" />
+        <mxCell id="TuoxUDgc9kxG5lUEJexI-238" value="Checkliste" style="locked=1;" parent="0" />
         <mxCell id="TuoxUDgc9kxG5lUEJexI-331" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TuoxUDgc9kxG5lUEJexI-238" vertex="1">
           <mxGeometry x="25" y="1730" width="776.0000000000005" height="40" as="geometry" />
         </mxCell>
