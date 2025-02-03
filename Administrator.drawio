@@ -508,8 +508,8 @@
         <mxCell id="SF6q-6VZULmL_obWjuGS-216" value="Löschen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#b85450;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#f8cecc;whiteSpace=wrap;" parent="SF6q-6VZULmL_obWjuGS-217" vertex="1">
           <mxGeometry x="359" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N88sC-kDk-tNkNpW3S4a-5" value="Benachrichtigungstext" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="h2HBl5gkmupRguE7wDUX-108" vertex="1">
-          <mxGeometry x="954.77" y="616" width="90" height="41.28" as="geometry" />
+        <mxCell id="N88sC-kDk-tNkNpW3S4a-5" value="Benachrichtigungstext&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(bei Erfüllung der Aufgabe)&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="h2HBl5gkmupRguE7wDUX-108" vertex="1">
+          <mxGeometry x="954.77" y="608.56" width="165.23" height="44" as="geometry" />
         </mxCell>
         <mxCell id="N88sC-kDk-tNkNpW3S4a-6" value="Freitext-Feld, ggf mit Platzhaltern für Name, Prüfungsbezeichnung, etc." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=left;verticalAlign=top;spacingLeft=10;fontSize=14;" parent="h2HBl5gkmupRguE7wDUX-108" vertex="1">
           <mxGeometry x="1114.77" y="606" width="350" height="110" as="geometry" />
