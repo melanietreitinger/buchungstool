@@ -390,7 +390,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h2HBl5gkmupRguE7wDUX-111" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#36393d;shadow=0;dashed=0;strokeWidth=2;fillColor=#f9f7ed;" parent="h2HBl5gkmupRguE7wDUX-108" vertex="1">
-          <mxGeometry x="944.77" y="287.28" width="530" height="550" as="geometry" />
+          <mxGeometry x="944.77" y="287.28" width="530" height="592.72" as="geometry" />
         </mxCell>
         <mxCell id="h2HBl5gkmupRguE7wDUX-112" value="Checklistenpunkt bearbeiten" style="text;strokeColor=#36393d;align=center;fillColor=#cce5ff;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="h2HBl5gkmupRguE7wDUX-108" vertex="1">
           <mxGeometry x="944.77" y="245.998905109489" width="210" height="41.277372262773724" as="geometry" />
@@ -399,10 +399,10 @@
           <mxGeometry x="954.77" y="297.28" width="90" height="41.28" as="geometry" />
         </mxCell>
         <mxCell id="h2HBl5gkmupRguE7wDUX-115" value="Verantwortlich" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="h2HBl5gkmupRguE7wDUX-108" vertex="1">
-          <mxGeometry x="954.77" y="364.2810218978102" width="90" height="41.277372262773724" as="geometry" />
+          <mxGeometry x="954.77" y="356.2810218978102" width="90" height="41.277372262773724" as="geometry" />
         </mxCell>
         <mxCell id="h2HBl5gkmupRguE7wDUX-116" value="Buchende*r / Service-Team / ..." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" parent="h2HBl5gkmupRguE7wDUX-108" vertex="1">
-          <mxGeometry x="1084.77" y="364.28" width="350" height="41.28" as="geometry" />
+          <mxGeometry x="1084.77" y="356.28" width="350" height="41.28" as="geometry" />
         </mxCell>
         <mxCell id="SF6q-6VZULmL_obWjuGS-60" value="Freitext-Feld" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;strokeWidth=1;fillColor=#E9ECEF;fontColor=#505050;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;" parent="h2HBl5gkmupRguE7wDUX-108" vertex="1">
           <mxGeometry x="1084.77" y="298.55999999999995" width="380" height="40" as="geometry" />
@@ -465,7 +465,7 @@
           <mxGeometry x="1084.77" y="517.28" width="300" height="41.28" as="geometry" />
         </mxCell>
         <mxCell id="tKte8elYGVKdBzl8FrZ1-11" value="" style="group" parent="h2HBl5gkmupRguE7wDUX-108" vertex="1" connectable="0">
-          <mxGeometry x="954.77" y="406" width="700" height="212.28" as="geometry" />
+          <mxGeometry x="954.77" y="377" width="700" height="212.28" as="geometry" />
         </mxCell>
         <mxCell id="SF6q-6VZULmL_obWjuGS-172" value="" style="group" parent="tKte8elYGVKdBzl8FrZ1-11" vertex="1" connectable="0">
           <mxGeometry y="21.423593826903087" width="470" height="50.07142878832116" as="geometry" />
@@ -479,11 +479,17 @@
         <mxCell id="UnJLPp4cT4F1k7DDOegg-2" value="Tage vor der Prüfung - &lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;leer lassen für &quot;terminunabhängig&quot;&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="SF6q-6VZULmL_obWjuGS-172" vertex="1">
           <mxGeometry x="250" width="220" height="50.07" as="geometry" />
         </mxCell>
+        <mxCell id="N88sC-kDk-tNkNpW3S4a-1" value="Rollenbezeichnungen!" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="tKte8elYGVKdBzl8FrZ1-11" vertex="1">
+          <mxGeometry x="529.23" y="-14.439999999999998" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vsnqipQW3Ia_qhW0I_OS-12" value="Raum" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="tKte8elYGVKdBzl8FrZ1-11">
+          <mxGeometry y="85.50102189781023" width="90" height="41.277372262773724" as="geometry" />
+        </mxCell>
+        <mxCell id="vsnqipQW3Ia_qhW0I_OS-13" value="Raum" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" vertex="1" parent="tKte8elYGVKdBzl8FrZ1-11">
+          <mxGeometry x="130" y="85.5" width="350" height="41.28" as="geometry" />
+        </mxCell>
         <mxCell id="N88sC-kDk-tNkNpW3S4a-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="h2HBl5gkmupRguE7wDUX-108" source="N88sC-kDk-tNkNpW3S4a-1" target="h2HBl5gkmupRguE7wDUX-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="N88sC-kDk-tNkNpW3S4a-1" value="Rollenbezeichnungen!" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="h2HBl5gkmupRguE7wDUX-108" vertex="1">
-          <mxGeometry x="1484.77" y="370" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N88sC-kDk-tNkNpW3S4a-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.402;entryDx=0;entryDy=0;entryPerimeter=0;" parent="h2HBl5gkmupRguE7wDUX-108" target="LzJ3E76Xs3PUDbBHmzgn-13" edge="1">
           <mxGeometry relative="1" as="geometry">
