@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Seite-1" id="lf1ekehDghxyOIlsF6fL">
-    <mxGraphModel dx="2506" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3693" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="locked=1;" parent="0" />
@@ -8,6 +8,27 @@
           <mxGeometry y="20" width="827" height="70" as="geometry" />
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-3" value="Admin" parent="0" />
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-320" value="" style="group" vertex="1" connectable="0" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-580" y="1590" width="530" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-319" value="" style="group" vertex="1" connectable="0" parent="K_DAQaWQYb8PbHtszAEa-320">
+          <mxGeometry width="530" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-275" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#36393d;shadow=0;dashed=0;strokeWidth=2;fillColor=#f9f7ed;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-319">
+          <mxGeometry y="47.53177796211413" width="530" height="682.4682220378858" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-276" value="Checklistenpunkt bearbeiten" style="text;strokeColor=#36393d;align=center;fillColor=#cce5ff;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-319">
+          <mxGeometry width="210" height="47.5274916631312" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-291" value="" style="group" vertex="1" connectable="0" parent="K_DAQaWQYb8PbHtszAEa-320">
+          <mxGeometry x="10" y="680.2799999999997" width="509" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-292" value="Speichern" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-291">
+          <mxGeometry width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-293" value="Löschen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#b85450;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#f8cecc;whiteSpace=wrap;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-291">
+          <mxGeometry x="359" width="150" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-4" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;ADMIN (Plugin-Administration)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-3">
           <mxGeometry x="-634" y="120" width="440" height="70" as="geometry" />
         </mxCell>
@@ -570,9 +591,9 @@
         <mxCell id="K_DAQaWQYb8PbHtszAEa-269" value="je &quot;Plugin-Rolle&quot; teilweise verschiedene Checklisten" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-3">
           <mxGeometry x="-570" y="480" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=3;" edge="1" parent="K_DAQaWQYb8PbHtszAEa-3">
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="K_DAQaWQYb8PbHtszAEa-3" target="K_DAQaWQYb8PbHtszAEa-272">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-257.59" y="1289.28" as="targetPoint" />
+            <mxPoint x="-310" y="1240" as="targetPoint" />
             <mxPoint x="-257.53117647058826" y="1159.28" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
@@ -580,7 +601,112 @@
           <mxGeometry x="-344" y="710" width="174" height="450" as="geometry" />
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-272" value="Die Felder könnten hier in der Listenübersicht ggf. auch als &quot;Schnellbearbeitung per Dropdown-Auswahl&quot; zur Verfügung stehen, da die Werte festgelegt sind (Rollen und Räume)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-3">
-          <mxGeometry x="-327" y="1290" width="140" height="160" as="geometry" />
+          <mxGeometry x="-384.5" y="1250" width="254.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-273" value="&lt;div class=&quot;ace-line&quot; id=&quot;magicdomid32&quot; aria-live=&quot;assertive&quot;&gt;&lt;ul class=&quot;list-bullet1&quot;&gt;&lt;li&gt;&lt;span class=&quot;author-a-xz73zjz68zz76zz75zyz71zz86zz66zz65zm9z76zz71zs&quot;&gt;Fortschrittsbalken Checkliste: woran ist der genau geknüpft? (Abhaken und/oder Stati? Welche?)&lt;/span&gt;&lt;span class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z&quot;&gt;:&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;ace-line&quot; id=&quot;magicdomid33&quot; aria-live=&quot;assertive&quot;&gt;&lt;ul class=&quot;list-bullet2&quot;&gt;&lt;li&gt;&lt;span class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z&quot;&gt;3 Stati: unerledigt, in Arbeit, erledigt&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;ace-line&quot; id=&quot;magicdomid34&quot; aria-live=&quot;assertive&quot;&gt;&lt;ul class=&quot;list-bullet2&quot;&gt;&lt;li&gt;&lt;span class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z&quot;&gt;Fortschrittsbalken zeigt drei Farben je nach Status (Fortschritt, Prozess)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;ace-line&quot; id=&quot;magicdomid123&quot; aria-live=&quot;assertive&quot;&gt;&lt;ul class=&quot;list-bullet2&quot;&gt;&lt;li&gt;&lt;span class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z&quot;&gt;Begriffe: &lt;/span&gt;&lt;span class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z b&quot;&gt;&lt;b&gt;Buchungsstatus&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z&quot;&gt; und &lt;/span&gt;&lt;span class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z b&quot;&gt;&lt;b&gt;Checklistenstatus&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z&quot;&gt; trennen&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="90" y="1080" width="474" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-277" value="Bezeichnung" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-570" y="1641.28" width="90" height="41.28" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-278" value="Verantwortlich" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-570" y="1700.2810218978102" width="90" height="41.277372262773724" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-279" value="Buchende*r / Service-Team / ..." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-440" y="1700.28" width="350" height="41.28" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-280" value="Freitext-Feld" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;strokeWidth=1;fillColor=#E9ECEF;fontColor=#505050;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-440" y="1642.56" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-281" value="" style="group" vertex="1" connectable="0" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-570" y="1911.2788686131387" width="240" height="41.277372262773724" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-282" value="Automatisch am Termin?" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-281">
+          <mxGeometry width="160" height="41.277372262773724" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-283" value="" style="group" vertex="1" connectable="0" parent="K_DAQaWQYb8PbHtszAEa-281">
+          <mxGeometry x="180" y="13.001131386861289" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-284" value="ja" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;fontSize=13;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-283">
+          <mxGeometry width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-285" value="nein" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;fontSize=13;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-283">
+          <mxGeometry x="50" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-286" value="" style="group" vertex="1" connectable="0" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-570" y="2070.56" width="430" height="41.28" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-287" value="Kategorie" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-286">
+          <mxGeometry width="80" height="41.28" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-288" value="Checklisten-Kategorie (muss angelegt sein)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-286">
+          <mxGeometry x="130" width="300" height="41.28" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-296" value="Benachrichtigung?" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-570" y="1861.28" width="120" height="41.28" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-297" value="Buchende*r / Service-Team / ... / Keine" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-440" y="1861.28" width="300" height="41.28" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-312" value="Benachrichtigungstext&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(bei Erfüllung der Aufgabe)&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-570" y="1952.56" width="165.23" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-313" value="Freitext-Feld, ggf mit Platzhaltern für Name, Prüfungsbezeichnung, etc." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=left;verticalAlign=top;spacingLeft=10;fontSize=14;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-410" y="1950" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-317" value="" style="group" vertex="1" connectable="0" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-827" y="1360" width="530" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-289" value="Checklisten-Kategorie bearbeiten" style="text;strokeColor=#36393d;align=center;fillColor=#cce5ff;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-317">
+          <mxGeometry x="0.2300000000000182" width="230" height="41.28" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-308" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#36393d;shadow=0;dashed=0;strokeWidth=2;fillColor=#f9f7ed;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-317">
+          <mxGeometry y="42" width="530" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-309" value="" style="group" vertex="1" connectable="0" parent="K_DAQaWQYb8PbHtszAEa-317">
+          <mxGeometry x="11" y="112" width="509" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-310" value="Speichern" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-309">
+          <mxGeometry width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-311" value="Löschen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#b85450;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#f8cecc;whiteSpace=wrap;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-309">
+          <mxGeometry x="359" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-314" value="" style="group" vertex="1" connectable="0" parent="K_DAQaWQYb8PbHtszAEa-317">
+          <mxGeometry x="10" y="52" width="510" height="41.27999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-315" value="Bezeichnung" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-314">
+          <mxGeometry width="90" height="41.28" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-316" value="Freitext-Feld" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;strokeWidth=1;fillColor=#E9ECEF;fontColor=#505050;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-314">
+          <mxGeometry x="130" y="1.2799999999999727" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-318" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.38;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="K_DAQaWQYb8PbHtszAEa-3" source="K_DAQaWQYb8PbHtszAEa-226" target="K_DAQaWQYb8PbHtszAEa-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-303" value="Rollenbezeichnungen!" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-810" y="1712.42" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-299" value="" style="group" vertex="1" connectable="0" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-570" y="1742.423593826903" width="470" height="50.07142878832116" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-300" value="Termin relativ" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-299">
+          <mxGeometry y="0.0007968800834114517" width="90" height="50.07063190823774" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-301" value="&lt;p style=&quot;line-height: 60%; font-size: 13px;&quot;&gt;14&lt;br&gt;&lt;/p&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.spinner;strokeColor=#999999;spinLayout=right;spinStyle=normal;adjStyle=triangle;fillColor=#aaddff;fontSize=13;fontColor=#666666;mainText=;html=1;overflow=fill;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-299">
+          <mxGeometry x="130" y="5.69291131595402" width="110" height="38.68348114285714" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-302" value="Tage vor der Prüfung - &lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;leer lassen für &quot;terminunabhängig&quot;&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-299">
+          <mxGeometry x="250" width="220" height="50.07" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-304" value="Raum" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-570" y="1806.5010218978102" width="90" height="41.277372262773724" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-305" value="Raum" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-440" y="1806.5" width="350" height="41.28" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-295" value="Benachrichtigungstexte sind per Sprachdatei individuell formulierbar." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-3">
+          <mxGeometry x="-810" y="1890" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
