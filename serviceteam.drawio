@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="2">
   <diagram name="Kalender" id="cYS-9EuOB4i6pcKZ9MJi">
-    <mxGraphModel dx="4249" dy="2545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3438" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -364,9 +364,6 @@
         </mxCell>
         <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-226" value="&lt;font size=&quot;1&quot; color=&quot;#4f688c&quot;&gt;&lt;b style=&quot;font-size: 29px;&quot;&gt;Buchungskalender&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-770" y="-1050" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hZRU2H-SfIQ9f5EC4YqQ-228" value="&lt;font size=&quot;1&quot; color=&quot;#4f688c&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 13px;&quot;&gt;Import und Export&lt;/span&gt;&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#6c8ebf;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#dae8fc;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="120" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6n-yQPafIiMLYWiK96yH-2" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;startSize=0;collapsible=0;recursiveResize=0;expand=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-436" y="-524" width="105" height="129" as="geometry">
@@ -1024,6 +1021,12 @@
         </mxCell>
         <mxCell id="pEI-9nN5SumiboMZDaN9-170" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Checkliste&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="pEI-9nN5SumiboMZDaN9-171">
           <mxGeometry x="644" y="202" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pEI-9nN5SumiboMZDaN9-172" value="" style="group;fontSize=10;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-739.5" y="110" width="712" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="pEI-9nN5SumiboMZDaN9-173" value="&lt;font&gt;Import / Export&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=13;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="pEI-9nN5SumiboMZDaN9-172">
+          <mxGeometry x="582.880829015544" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
