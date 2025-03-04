@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Kalender" id="cYS-9EuOB4i6pcKZ9MJi">
-    <mxGraphModel dx="2611" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3422" dy="1376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="Kalender" style="locked=1;" parent="0" />
@@ -775,7 +775,7 @@
         <mxCell id="HSe4UDjtnV36XrPr70aD-4" value="9" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#999999;" parent="N64B7SWwX6CFY86yBuNC-189" vertex="1">
           <mxGeometry x="31" y="69" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CCN0DATAm5xw3YuDV8w9-1" value="Buchungsformular" style="" parent="0" />
+        <mxCell id="CCN0DATAm5xw3YuDV8w9-1" value="Buchungsformular" style="locked=1;" parent="0" />
         <mxCell id="tTCCTxN9szVMtPMrQivX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CCN0DATAm5xw3YuDV8w9-1" target="CCN0DATAm5xw3YuDV8w9-85" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="1490" as="sourcePoint" />
@@ -1500,7 +1500,7 @@
         <mxCell id="TuoxUDgc9kxG5lUEJexI-114" value="&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;color: rgb(79, 104, 140); text-align: center;&quot;&gt;Eintrag gebuchter Termin (vom Buchenden)&lt;/span&gt;&lt;font color=&quot;#4f688c&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="CCN0DATAm5xw3YuDV8w9-107" vertex="1">
           <mxGeometry x="-660" y="828" width="105" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TuoxUDgc9kxG5lUEJexI-238" value="Checkliste" style="" parent="0" />
+        <mxCell id="TuoxUDgc9kxG5lUEJexI-238" value="Checkliste" style="locked=1;" parent="0" />
         <mxCell id="TuoxUDgc9kxG5lUEJexI-331" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TuoxUDgc9kxG5lUEJexI-238" vertex="1">
           <mxGeometry x="25" y="1730" width="776.0000000000005" height="40" as="geometry" />
         </mxCell>
