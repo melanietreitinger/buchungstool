@@ -1801,7 +1801,7 @@
         <mxCell id="K_DAQaWQYb8PbHtszAEa-571" value="Sollen Buchende auch die Checklisten-Stati vorgelegt bekommen (unerledigt, in Arbeit, erledigt) - oder der Einfachheit halber nur &quot;per Haken setzen&quot;: unerledigt / erledigt&quot;?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-505">
           <mxGeometry x="1486.53" y="1180" width="140" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-879" value="Service vor Ort" parent="0" />
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-879" value="Service vor Ort" style="locked=1;" parent="0" />
         <mxCell id="K_DAQaWQYb8PbHtszAEa-880" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Service vor Ort&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
           <mxGeometry x="1734" y="119" width="659" height="70" as="geometry" />
         </mxCell>
