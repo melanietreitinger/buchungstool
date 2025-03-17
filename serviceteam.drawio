@@ -1030,7 +1030,7 @@
         <mxCell id="pEI-9nN5SumiboMZDaN9-173" value="&lt;font&gt;Import / Export&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=13;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="pEI-9nN5SumiboMZDaN9-172" vertex="1">
           <mxGeometry x="582.880829015544" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iLJeYfAovNnorCYuZ-yf-1" value="&lt;font color=&quot;#4f688c&quot;&gt;Letzte Änderung am 01.04.2025 von &lt;b&gt;El Barto&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iLJeYfAovNnorCYuZ-yf-1" value="&lt;font color=&quot;#4f688c&quot;&gt;Letzte Änderung von &lt;b&gt;El Barto &lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#4f688c&quot;&gt;am 01.04.2025 um 13:37 Uhr&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="-154" width="390" height="30" as="geometry" />
         </mxCell>
       </root>
