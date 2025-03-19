@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <object label="Support vor Ort" id="K_DAQaWQYb8PbHtszAEa-879">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="" parent="0" />
         </object>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-880" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Support vor Ort&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="K_DAQaWQYb8PbHtszAEa-879" vertex="1">
           <mxGeometry x="1734" y="119" width="659" height="70" as="geometry" />
