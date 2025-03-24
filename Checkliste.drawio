@@ -1,12 +1,12 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="26.1.1">
   <diagram name="Checklistenansicht für alle Rollen" id="lf1ekehDghxyOIlsF6fL">
-    <mxGraphModel dx="1733" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <object label="" Kopie="" id="0">
           <mxCell />
         </object>
         <object label="Support vor Ort" id="K_DAQaWQYb8PbHtszAEa-879">
-          <mxCell style="locked=1;" parent="0" />
+          <mxCell style="" parent="0" />
         </object>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-880" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Support vor Ort&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="K_DAQaWQYb8PbHtszAEa-879" vertex="1">
           <mxGeometry x="1734" y="119" width="659" height="70" as="geometry" />
@@ -225,7 +225,7 @@
         <mxCell id="Z_F8oWZkZVodLMQWaBm--193" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CC0000;strokeWidth=3;" parent="K_DAQaWQYb8PbHtszAEa-879" vertex="1">
           <mxGeometry x="1900.0000000000002" y="460" width="84" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-505" value="Buchende" style="locked=1;" parent="0" />
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-505" value="Buchende" style="" parent="0" />
         <mxCell id="K_DAQaWQYb8PbHtszAEa-506" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;BUCHENDE (Prüfungsverantwortende Person im Fach)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="K_DAQaWQYb8PbHtszAEa-505" vertex="1">
           <mxGeometry x="911" y="120" width="659" height="70" as="geometry" />
         </mxCell>
@@ -519,7 +519,7 @@
         <mxCell id="Z_F8oWZkZVodLMQWaBm--257" value="Export (PDF)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" parent="Z_F8oWZkZVodLMQWaBm--255" vertex="1">
           <mxGeometry width="161.36363636363635" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-357" value="Service-Team" style="locked=1;" parent="0" />
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-357" value="Service-Team" style="" parent="0" />
         <mxCell id="K_DAQaWQYb8PbHtszAEa-358" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;SERVICE-TEAM (Prüfungsverwaltung)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="K_DAQaWQYb8PbHtszAEa-357" vertex="1">
           <mxGeometry x="175" y="120" width="477" height="70" as="geometry" />
         </mxCell>
@@ -557,19 +557,19 @@
           <mxGeometry x="752" y="296" width="44" height="89" as="geometry" />
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-469" value="" style="group" parent="K_DAQaWQYb8PbHtszAEa-357" vertex="1" connectable="0">
-          <mxGeometry x="54" y="840" width="726" height="40" as="geometry" />
+          <mxGeometry x="54" y="840" width="546" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-464" value="" style="group" parent="K_DAQaWQYb8PbHtszAEa-469" vertex="1" connectable="0">
-          <mxGeometry y="20" width="726" height="20" as="geometry" />
+          <mxGeometry y="20" width="546" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-423" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="K_DAQaWQYb8PbHtszAEa-464" vertex="1">
-          <mxGeometry width="726" height="20" as="geometry" />
+          <mxGeometry width="546" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-424" value="50%" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#D5E8D4;" parent="K_DAQaWQYb8PbHtszAEa-464" vertex="1">
-          <mxGeometry width="312.6244897959184" height="20" as="geometry" />
+          <mxGeometry width="235.11428571428576" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-465" value="&lt;h3&gt;&lt;b&gt;Checklistenstatus / Fortschrittsbalken&lt;/b&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="K_DAQaWQYb8PbHtszAEa-469" vertex="1">
-          <mxGeometry width="726" height="20" as="geometry" />
+          <mxGeometry width="546" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-703" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;fontSize=16;align=center;" parent="K_DAQaWQYb8PbHtszAEa-357" vertex="1">
           <mxGeometry x="44" y="907" width="767" height="623" as="geometry" />
@@ -1372,7 +1372,13 @@
         <mxCell id="Z_F8oWZkZVodLMQWaBm--260" value="Export (PDF/csv)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" parent="Z_F8oWZkZVodLMQWaBm--258" vertex="1">
           <mxGeometry width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-3" value="Admin" style="locked=1;" parent="0" />
+        <mxCell id="l4gG_5eEfRBhNwOMbyZG-6" value="&lt;span style=&quot;font-family: &#39;Segoe UI&#39;;&quot;&gt;Checklisten-Konfiguration bearbeiten&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="Z_F8oWZkZVodLMQWaBm--258">
+          <mxGeometry x="197" width="334" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l4gG_5eEfRBhNwOMbyZG-5" value="Detailansicht" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-357">
+          <mxGeometry x="620" y="840" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-3" value="Admin" style="" parent="0" />
         <mxCell id="K_DAQaWQYb8PbHtszAEa-347" value="" style="group" parent="K_DAQaWQYb8PbHtszAEa-3" vertex="1" connectable="0">
           <mxGeometry x="-570" y="1550" width="530" height="780" as="geometry" />
         </mxCell>
@@ -2126,7 +2132,7 @@
         <mxCell id="Z_F8oWZkZVodLMQWaBm--62" value="&lt;div&gt;Checkliste bearbeiten erhalten die Rollen &lt;br&gt;* Admin&lt;br&gt;* Service-Team&lt;/div&gt;&lt;div&gt;per Klick auf den Button &quot;Edit&quot;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="K_DAQaWQYb8PbHtszAEa-3" vertex="1">
           <mxGeometry x="-804.5" y="1550" width="230" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="1" style="locked=1;" parent="0" />
+        <mxCell id="1" style="" parent="0" />
         <mxCell id="K_DAQaWQYb8PbHtszAEa-1" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Mockup CHECKLISTE&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry y="20" width="827" height="70" as="geometry" />
         </mxCell>
