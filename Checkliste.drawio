@@ -1378,6 +1378,17 @@
         <mxCell id="l4gG_5eEfRBhNwOMbyZG-5" value="Detailansicht" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-357">
           <mxGeometry x="620" y="840" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="l4gG_5eEfRBhNwOMbyZG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.905;entryY=0.992;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=3;entryPerimeter=0;" edge="1" parent="K_DAQaWQYb8PbHtszAEa-357" source="l4gG_5eEfRBhNwOMbyZG-5" target="K_DAQaWQYb8PbHtszAEa-360">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="570" as="sourcePoint" />
+            <mxPoint x="541" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="860" />
+              <mxPoint x="590" y="470" />
+              <mxPoint x="344" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-3" value="Admin" style="" parent="0" />
         <mxCell id="K_DAQaWQYb8PbHtszAEa-347" value="" style="group" parent="K_DAQaWQYb8PbHtszAEa-3" vertex="1" connectable="0">
           <mxGeometry x="-570" y="1550" width="530" height="780" as="geometry" />
