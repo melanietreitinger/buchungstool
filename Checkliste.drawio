@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.1.1">
   <diagram name="Checklistenansicht für alle Rollen" id="lf1ekehDghxyOIlsF6fL">
-    <mxGraphModel dx="2261" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2465" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <object label="" Kopie="" id="0">
           <mxCell />
@@ -1409,7 +1409,7 @@
         <mxCell id="Z_F8oWZkZVodLMQWaBm--49" value="" style="group" parent="Z_F8oWZkZVodLMQWaBm--48" vertex="1" connectable="0">
           <mxGeometry width="520" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-329" value="&lt;b style=&quot;font-size: 12px; text-align: center;&quot;&gt;Checklistenstati&lt;/b&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="Z_F8oWZkZVodLMQWaBm--49" vertex="1">
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-329" value="&lt;b style=&quot;font-size: 12px; text-align: center;&quot;&gt;Checklistenstatus&lt;/b&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="Z_F8oWZkZVodLMQWaBm--49" vertex="1">
           <mxGeometry width="110" height="41.28" as="geometry" />
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-343" value="pending / offen" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#004C99;strokeWidth=1;fillColor=#E9ECEF;fontColor=#505050;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=12;" parent="Z_F8oWZkZVodLMQWaBm--49" vertex="1">
@@ -1471,7 +1471,7 @@
         <mxCell id="K_DAQaWQYb8PbHtszAEa-133" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="K_DAQaWQYb8PbHtszAEa-3" vertex="1">
           <mxGeometry x="-827" y="560" width="812" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-134" value="Checkliste Vorlage / Template (auch vom Service-Team konfigurierbar)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="K_DAQaWQYb8PbHtszAEa-3" vertex="1">
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-134" value="Checklisten Template" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="K_DAQaWQYb8PbHtszAEa-3" vertex="1">
           <mxGeometry x="-802" y="642" width="780" height="528" as="geometry" />
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-135" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="K_DAQaWQYb8PbHtszAEa-134" vertex="1">
@@ -2021,7 +2021,7 @@
         <mxCell id="K_DAQaWQYb8PbHtszAEa-270" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CC0000;strokeWidth=3;" parent="K_DAQaWQYb8PbHtszAEa-3" vertex="1">
           <mxGeometry x="-344" y="710" width="174" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-272" value="&lt;div&gt;Die Felder könnten hier in der Listenübersicht ggf. auch als &quot;Schnellbearbeitung per Dropdown-Auswahl&quot; zur Verfügung stehen, da die Werte festgelegt sind (Rollen und Räume)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dropdownfeld mit MEHRFACHUASWAHL für Rollen und Raumauswahl!&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="K_DAQaWQYb8PbHtszAEa-3" vertex="1">
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-272" value="Schnellbearbeitung über Listenübersicht. Zusätzlich zum Bearbeitungsformular. Klick auf das Feld öffnet Drop-Down-Auswahl. Mehrauswahl möglich. " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="K_DAQaWQYb8PbHtszAEa-3" vertex="1">
           <mxGeometry x="-384.5" y="1250" width="254.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-273" value="&lt;div class=&quot;ace-line&quot; id=&quot;magicdomid32&quot; aria-live=&quot;assertive&quot;&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot; class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z&quot;&gt;Begriffe: &lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot; class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z b&quot;&gt;&lt;b&gt;Buchungsstatus&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot; class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z&quot;&gt; und &lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot; class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z b&quot;&gt;&lt;b&gt;Checklistenstatus&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot; class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z&quot;&gt; trennen&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="K_DAQaWQYb8PbHtszAEa-3" vertex="1">
