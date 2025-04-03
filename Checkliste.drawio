@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="26.1.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.2.5">
   <diagram name="Checklistenansicht für alle Rollen" id="lf1ekehDghxyOIlsF6fL">
-    <mxGraphModel dx="2912" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="3082" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <object label="" Kopie="" id="0">
           <mxCell />
@@ -8,6 +8,9 @@
         <object label="Support vor Ort" id="K_DAQaWQYb8PbHtszAEa-879">
           <mxCell style="" parent="0" />
         </object>
+        <mxCell id="Aep-3rsLXet8ihsEsJj7-11" value="abgedeckt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+          <mxGeometry x="-990" y="2087" width="80" height="10" as="geometry" />
+        </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-880" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Support vor Ort&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="K_DAQaWQYb8PbHtszAEa-879" vertex="1">
           <mxGeometry x="1734" y="119" width="659" height="70" as="geometry" />
         </mxCell>
@@ -249,20 +252,78 @@
         <mxCell id="0c7yowjPOTkztaBuD4qq-153" value="&lt;div&gt;to do:&amp;nbsp;&lt;/div&gt;&lt;div&gt;1) Edit Benachrichtigungstext erstellen&lt;/div&gt;&lt;div&gt;2) Hilfstextsymbole einfügen &lt;br&gt;&lt;/div&gt;&lt;div&gt;3) Eine Beispiel Mehrfachauswahl (Drop-Down) vor allem bei der Angabe von Rollen oder Räumen &lt;br&gt; &lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="K_DAQaWQYb8PbHtszAEa-879" vertex="1">
           <mxGeometry x="-1210" y="2110" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mkFwfjxqPq2VYHj7ms3w-2" value="Auswahl-Optionen" style="swimlane;strokeColor=#6c8ebf;swimlaneFillColor=#FFFFFF;fillColor=#dae8fc;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+        <mxCell id="mkFwfjxqPq2VYHj7ms3w-2" value="Auswahl-Optionen" style="swimlane;strokeColor=#6c8ebf;swimlaneFillColor=#FFFFFF;fillColor=#dae8fc;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fontSize=17;labelBackgroundColor=none;" parent="K_DAQaWQYb8PbHtszAEa-879" vertex="1">
           <mxGeometry x="120" y="2017" width="183" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mkFwfjxqPq2VYHj7ms3w-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;vor der Prüfung&lt;/span&gt;&lt;/font&gt;" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#666666;fontSize=17;" vertex="1" parent="mkFwfjxqPq2VYHj7ms3w-2">
+        <mxCell id="mkFwfjxqPq2VYHj7ms3w-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;vor der Prüfung&lt;/span&gt;&lt;/font&gt;" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#666666;fontSize=17;" parent="mkFwfjxqPq2VYHj7ms3w-2" vertex="1">
           <mxGeometry y="30" width="183" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mkFwfjxqPq2VYHj7ms3w-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;nach der Prüfung&lt;/span&gt;&lt;/font&gt;" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=#DDEEFF;fontColor=#666666;fontSize=17;" vertex="1" parent="mkFwfjxqPq2VYHj7ms3w-2">
+        <mxCell id="mkFwfjxqPq2VYHj7ms3w-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;nach der Prüfung&lt;/span&gt;&lt;/font&gt;" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=#DDEEFF;fontColor=#666666;fontSize=17;" parent="mkFwfjxqPq2VYHj7ms3w-2" vertex="1">
           <mxGeometry y="50" width="183" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mkFwfjxqPq2VYHj7ms3w-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+        <mxCell id="mkFwfjxqPq2VYHj7ms3w-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="K_DAQaWQYb8PbHtszAEa-879" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="2100" as="sourcePoint" />
             <mxPoint x="-30" y="2050" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Aep-3rsLXet8ihsEsJj7-1" value="&lt;div&gt;Notiz: &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Benachrichtigung Zeitpunkt Szenarien überdenken &lt;br&gt;&lt;/div&gt;&lt;div&gt;- in den Szenarien muss Schriftzug &quot;Tag vor der Prüfung angepasst werden&quot; oder Regelgabe je nach Fälligkeitszuordnung vor / nach der Prüfung &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+          <mxGeometry x="-970" y="1946" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Aep-3rsLXet8ihsEsJj7-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-990" y="2120" as="sourcePoint" />
+            <mxPoint x="-740" y="2120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aep-3rsLXet8ihsEsJj7-3" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Aep-3rsLXet8ihsEsJj7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aep-3rsLXet8ihsEsJj7-5" value="Prüfung" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Aep-3rsLXet8ihsEsJj7-2">
+          <mxGeometry x="0.05" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aep-3rsLXet8ihsEsJj7-6" value="Fälligkeit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+          <mxGeometry x="-960" y="2110" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Aep-3rsLXet8ihsEsJj7-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-990" y="2190" as="sourcePoint" />
+            <mxPoint x="-740" y="2190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aep-3rsLXet8ihsEsJj7-8" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Aep-3rsLXet8ihsEsJj7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aep-3rsLXet8ihsEsJj7-9" value="Prüfung" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Aep-3rsLXet8ihsEsJj7-7">
+          <mxGeometry x="0.05" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aep-3rsLXet8ihsEsJj7-10" value="Fälligkeit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+          <mxGeometry x="-810" y="2180" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Aep-3rsLXet8ihsEsJj7-12" value="abgedeckt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+          <mxGeometry x="-990" y="2160" width="230" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Aep-3rsLXet8ihsEsJj7-13" value="F nach Prüfung" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+          <mxGeometry x="-715" y="2170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aep-3rsLXet8ihsEsJj7-15" value="&amp;nbsp;F nach Prüfung" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+          <mxGeometry x="-725" y="2095" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0c7yowjPOTkztaBuD4qq-43" value="Abgleich mit Fälligkeit: Es soll automatisch geprüft werden, ob der Zeitpunkt bei Benachrichtigung vor Fälligkeit auch vor der Fälligkeit des Checklistenpunkts liegt. Eingabe hier &amp;gt; EIngabe Fälligkeit" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="K_DAQaWQYb8PbHtszAEa-879" vertex="1">
+          <mxGeometry x="-770" y="1995" width="200" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="Aep-3rsLXet8ihsEsJj7-16" value="nicht abgedeckt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+          <mxGeometry x="-760" y="2158" width="110" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="Aep-3rsLXet8ihsEsJj7-17" value="nicht abgedeckt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+          <mxGeometry x="-910" y="2086" width="180" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="Aep-3rsLXet8ihsEsJj7-18" value="Es fehlen uns bei der Abdeckungen Benachrichtigung nach Fälligkeit zu verschicken &lt;br&gt;Vielleicht abdecken über Erinnerung nach Fälligkeit als Kategorie " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+          <mxGeometry x="-962.5" y="2210" width="175" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-505" value="Buchende" style="" parent="0" />
         <mxCell id="K_DAQaWQYb8PbHtszAEa-506" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;BUCHENDE (Prüfungsverantwortende Person im Fach)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="K_DAQaWQYb8PbHtszAEa-505" vertex="1">
@@ -2151,9 +2212,6 @@
         <mxCell id="1NzBRCPQ0QUMNYefxFNs-94" value="vor der Prüfung " style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=13;fontColor=#000000;labelPosition=right;verticalAlign=middle;" parent="K_DAQaWQYb8PbHtszAEa-347" vertex="1">
           <mxGeometry x="20" y="680" width="10" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="0c7yowjPOTkztaBuD4qq-43" value="Abgleich mit Fälligkeit: Es soll automatisch geprüft werden, ob der Zeitpunkt bei Benachrichtigung vor Fälligkeit auch vor der Fälligkeit des Checklistenpunkts liegt. Eingabe hier &amp;gt; EIngabe Fälligkeit" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="K_DAQaWQYb8PbHtszAEa-347" vertex="1">
-          <mxGeometry x="-166" y="453" width="200" height="92" as="geometry" />
-        </mxCell>
         <mxCell id="1NzBRCPQ0QUMNYefxFNs-6" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" parent="K_DAQaWQYb8PbHtszAEa-347" vertex="1">
           <mxGeometry x="280" y="180" width="15" height="15" as="geometry" />
         </mxCell>
@@ -2232,15 +2290,15 @@
         <mxCell id="1NzBRCPQ0QUMNYefxFNs-93" value="Benachrichtigungstext&lt;br&gt;bearbeiten" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="K_DAQaWQYb8PbHtszAEa-347" vertex="1">
           <mxGeometry x="379" y="874.996592639769" width="76" height="59.69884615384615" as="geometry" />
         </mxCell>
-        <mxCell id="mkFwfjxqPq2VYHj7ms3w-6" value="&lt;font&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;vor der Prüfung&lt;/span&gt;&lt;font&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-347">
+        <mxCell id="mkFwfjxqPq2VYHj7ms3w-6" value="&lt;font&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;vor der Prüfung&lt;/span&gt;&lt;font&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" parent="K_DAQaWQYb8PbHtszAEa-347" vertex="1">
           <mxGeometry x="310" y="310" width="180" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="mkFwfjxqPq2VYHj7ms3w-7" value="" style="shape=triangle;direction=south;fillColor=#6C767D;strokeColor=none;perimeter=none;" vertex="1" parent="mkFwfjxqPq2VYHj7ms3w-6">
+        <mxCell id="mkFwfjxqPq2VYHj7ms3w-7" value="" style="shape=triangle;direction=south;fillColor=#6C767D;strokeColor=none;perimeter=none;" parent="mkFwfjxqPq2VYHj7ms3w-6" vertex="1">
           <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
             <mxPoint x="-17" y="-2.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mkFwfjxqPq2VYHj7ms3w-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.014;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="K_DAQaWQYb8PbHtszAEa-347" target="mkFwfjxqPq2VYHj7ms3w-2">
+        <mxCell id="mkFwfjxqPq2VYHj7ms3w-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.014;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="K_DAQaWQYb8PbHtszAEa-347" target="mkFwfjxqPq2VYHj7ms3w-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="330" as="sourcePoint" />
             <mxPoint x="540" y="280" as="targetPoint" />
