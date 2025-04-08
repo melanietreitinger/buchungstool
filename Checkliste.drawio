@@ -2083,7 +2083,7 @@
         <mxCell id="K_DAQaWQYb8PbHtszAEa-317" value="" style="group" parent="K_DAQaWQYb8PbHtszAEa-3" vertex="1" connectable="0">
           <mxGeometry x="-1130" y="1300" width="530" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-289" value="Checklisten-Kategorie bearbeiten" style="text;strokeColor=#36393d;align=center;fillColor=#cce5ff;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="K_DAQaWQYb8PbHtszAEa-317" vertex="1">
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-289" value="Checklisten-Kategorie " style="text;strokeColor=#36393d;align=center;fillColor=#cce5ff;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="K_DAQaWQYb8PbHtszAEa-317" vertex="1">
           <mxGeometry x="0.2300000000000182" width="230" height="41.28" as="geometry" />
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-308" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#36393d;shadow=0;dashed=0;strokeWidth=2;fillColor=#f9f7ed;" parent="K_DAQaWQYb8PbHtszAEa-317" vertex="1">
