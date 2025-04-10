@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.2.9">
   <diagram name="Checklistenansicht für alle Rollen" id="lf1ekehDghxyOIlsF6fL">
-    <mxGraphModel dx="3241" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="3082" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <object label="" Kopie="" id="0">
           <mxCell />
@@ -325,11 +325,49 @@
         <mxCell id="Aep-3rsLXet8ihsEsJj7-18" value="Es fehlen uns bei der Abdeckungen Benachrichtigung nach Fälligkeit zu verschicken &lt;br&gt;Vielleicht abdecken über Erinnerung nach Fälligkeit als Kategorie " style="rounded=0;whiteSpace=wrap;html=1;" parent="K_DAQaWQYb8PbHtszAEa-879" vertex="1">
           <mxGeometry x="-962.5" y="2210" width="175" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="oa0qEemLrpCyl5lHmLOa-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.quadArrow;dy=4;dx=8;notch=24;arrowHead=4;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+        <mxCell id="oa0qEemLrpCyl5lHmLOa-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.quadArrow;dy=4;dx=8;notch=24;arrowHead=4;" parent="K_DAQaWQYb8PbHtszAEa-879" vertex="1">
           <mxGeometry x="-1120" y="580" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oa0qEemLrpCyl5lHmLOa-18" value="To Do : Sortierpfeile austauschen ( entspricht dem Sortiersymbol in Moodle bei Blöcken un deren Anordnung) " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+        <mxCell id="oa0qEemLrpCyl5lHmLOa-18" value="To Do : Sortierpfeile austauschen ( entspricht dem Sortiersymbol in Moodle bei Blöcken un deren Anordnung) " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="K_DAQaWQYb8PbHtszAEa-879" vertex="1">
           <mxGeometry x="-1100" y="650" width="254.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu08d0eVNCr5P3VPe8_j-6" value="" style="swimlane;strokeColor=#999999;swimlaneFillColor=#FFFFFF;fillColor=#ffffff;fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+          <mxGeometry x="-420" y="1310" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu08d0eVNCr5P3VPe8_j-7" value="Setting 1" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=inherit;fontSize=17;" vertex="1" parent="Zu08d0eVNCr5P3VPe8_j-6">
+          <mxGeometry width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu08d0eVNCr5P3VPe8_j-8" value="" style="shape=ellipse;resizable=0;fillColor=#EEEEEE;strokeColor=#999999;gradientColor=#cccccc;html=1;" vertex="1" parent="Zu08d0eVNCr5P3VPe8_j-7">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="8" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zu08d0eVNCr5P3VPe8_j-9" value="Setting 2" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=none;fontColor=inherit;fontSize=17;" vertex="1" parent="Zu08d0eVNCr5P3VPe8_j-6">
+          <mxGeometry y="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu08d0eVNCr5P3VPe8_j-10" value="" style="shape=ellipse;resizable=0;fillColor=#EEEEEE;strokeColor=#999999;gradientColor=#cccccc;html=1;" vertex="1" parent="Zu08d0eVNCr5P3VPe8_j-9">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="8" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zu08d0eVNCr5P3VPe8_j-11" value="Setting 3" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=none;fontColor=#008CFF;fontSize=17;" vertex="1" parent="Zu08d0eVNCr5P3VPe8_j-6">
+          <mxGeometry y="60" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu08d0eVNCr5P3VPe8_j-12" value="" style="shape=ellipse;resizable=0;fillColor=#AAAAAA;gradientColor=#666666;strokeColor=#444444;html=1;" vertex="1" parent="Zu08d0eVNCr5P3VPe8_j-11">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="8" y="-7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zu08d0eVNCr5P3VPe8_j-13" value="" style="shape=ellipse;resizable=0;fillColor=#444444;strokeColor=none;html=1;" vertex="1" parent="Zu08d0eVNCr5P3VPe8_j-12">
+          <mxGeometry x="0.2" y="0.2" width="9" height="9" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu08d0eVNCr5P3VPe8_j-14" value="Setting 4" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=inherit;fontSize=17;" vertex="1" parent="Zu08d0eVNCr5P3VPe8_j-6">
+          <mxGeometry y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu08d0eVNCr5P3VPe8_j-15" value="" style="shape=ellipse;resizable=0;fillColor=#EEEEEE;strokeColor=#999999;gradientColor=#cccccc;html=1;" vertex="1" parent="Zu08d0eVNCr5P3VPe8_j-14">
+          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
+            <mxPoint x="8" y="-7.5" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-505" value="Buchende" style="" parent="0" />
         <mxCell id="K_DAQaWQYb8PbHtszAEa-506" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;BUCHENDE (Prüfungsverantwortende Person im Fach)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="K_DAQaWQYb8PbHtszAEa-505" vertex="1">
@@ -2065,9 +2103,9 @@
         <mxCell id="K_DAQaWQYb8PbHtszAEa-269" value="je &quot;Plugin-Rolle&quot; teilweise verschiedene Checklisten" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="K_DAQaWQYb8PbHtszAEa-3" vertex="1">
           <mxGeometry x="-570" y="480" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="K_DAQaWQYb8PbHtszAEa-3" target="K_DAQaWQYb8PbHtszAEa-272" edge="1">
+        <mxCell id="K_DAQaWQYb8PbHtszAEa-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=3;" parent="K_DAQaWQYb8PbHtszAEa-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-310" y="1240" as="targetPoint" />
+            <mxPoint x="-310" y="1300" as="targetPoint" />
             <mxPoint x="-257.53117647058826" y="1159.28" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
@@ -2075,7 +2113,7 @@
           <mxGeometry x="-344" y="710" width="194" height="450" as="geometry" />
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-272" value="Schnellbearbeitung über Listenübersicht. Zusätzlich zum Bearbeitungsformular. Klick auf das Feld öffnet Drop-Down-Auswahl. Mehrauswahl möglich. " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="K_DAQaWQYb8PbHtszAEa-3" vertex="1">
-          <mxGeometry x="-400" y="1290" width="254.5" height="120" as="geometry" />
+          <mxGeometry x="-270" y="1310" width="254.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-273" value="&lt;div class=&quot;ace-line&quot; id=&quot;magicdomid32&quot; aria-live=&quot;assertive&quot;&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot; class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z&quot;&gt;Begriffe: &lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot; class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z b&quot;&gt;&lt;b&gt;Buchungsstatus&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot; class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z&quot;&gt; und &lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot; class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z b&quot;&gt;&lt;b&gt;Checklistenstatus&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot; class=&quot;author-a-z87zz70zkqz77z27qz88z4z84z522z85zz75z&quot;&gt; trennen&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="K_DAQaWQYb8PbHtszAEa-3" vertex="1">
           <mxGeometry x="-390" y="30" width="340" height="60" as="geometry" />
