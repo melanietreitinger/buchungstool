@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.2.12">
   <diagram name="Seite-1" id="YkcdpjiohOVso3VDDVBc">
-    <mxGraphModel dx="6414" dy="2483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3518" dy="2976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -422,13 +422,13 @@
         <mxCell id="bgduOCL5DvsCa69tKbjl-91" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Raum&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
           <mxGeometry x="-384.5" y="580" width="344" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bgduOCL5DvsCa69tKbjl-92" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="bgduOCL5DvsCa69tKbjl-92" value="" style="group;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-814.5" y="1190" width="779" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-93" value="Neue Kategorie" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-92">
           <mxGeometry y="10" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bgduOCL5DvsCa69tKbjl-94" value="Import / Export" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#CCCCCC;whiteSpace=wrap;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-92">
+        <mxCell id="bgduOCL5DvsCa69tKbjl-94" value="Import / Export" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#6c8ebf;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#dae8fc;whiteSpace=wrap;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-92">
           <mxGeometry x="559" y="10" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-95" value="Neuer Checklistenpunkt" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-92">
@@ -524,7 +524,7 @@
           <mxGeometry y="429" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-244" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-111">
-          <mxGeometry x="-3" y="383" width="37" height="37" as="geometry" />
+          <mxGeometry x="-3" y="390" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-125" value="je &quot;Plugin-Rolle&quot; teilweise verschiedene Checklisten" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-570" y="480" width="150" height="70" as="geometry" />
@@ -843,7 +843,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bgduOCL5DvsCa69tKbjl-240" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.978;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="bgduOCL5DvsCa69tKbjl-216" target="bgduOCL5DvsCa69tKbjl-218">
+        <mxCell id="bgduOCL5DvsCa69tKbjl-240" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.978;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" edge="1" parent="1" source="bgduOCL5DvsCa69tKbjl-216" target="bgduOCL5DvsCa69tKbjl-218">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-90" y="1650" as="sourcePoint" />
             <mxPoint x="-40" y="1600" as="targetPoint" />
@@ -981,14 +981,95 @@
         <mxCell id="bgduOCL5DvsCa69tKbjl-378" value="Benachrichtigungstexte sind per Template/Datenbankeintrag editierbar." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-183" y="2044" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bgduOCL5DvsCa69tKbjl-379" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-90" y="2269.9969230769225" width="510" height="131.15384615384642" as="geometry" />
+        <mxCell id="bgduOCL5DvsCa69tKbjl-382" value="Benachrichtigungstext" style="text;strokeColor=#36393d;align=center;fillColor=#cce5ff;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-119.76999999999998" y="2199" width="230" height="42.687272727272735" as="geometry" />
         </mxCell>
-        <mxCell id="bgduOCL5DvsCa69tKbjl-380" value="Benachrichtigungstext&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(bei Erfüllung der Aufgabe)&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-379">
-          <mxGeometry y="2.710993822592382e-13" width="165.23" height="52.46153846153845" as="geometry" />
+        <mxCell id="bgduOCL5DvsCa69tKbjl-383" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#36393d;shadow=0;dashed=0;strokeWidth=2;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="2242.43" width="530" height="336.57" as="geometry" />
         </mxCell>
-        <mxCell id="bgduOCL5DvsCa69tKbjl-381" value="Freitext-Feld, ggf mit Platzhaltern für Name, Prüfungsbezeichnung, etc." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=left;verticalAlign=top;spacingLeft=10;fontSize=14;fillColor=#E6E6E6;strokeColor=#004C99;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-379">
-          <mxGeometry x="160" width="350" height="131.15384615384613" as="geometry" />
+        <mxCell id="bgduOCL5DvsCa69tKbjl-387" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-110" y="2529.0045454545457" width="510" height="62.04545454545455" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-388" value="Speichern" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-387">
+          <mxGeometry y="-3.9318181818181817" width="120" height="39.29545454545455" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-389" value="Löschen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#b85450;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#f8cecc;whiteSpace=wrap;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-387">
+          <mxGeometry x="390" y="-0.0018181818181801646" width="120" height="39.29545454545455" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-390" value="Änderungen verwerfen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2524" width="140" height="39.3" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-391" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.menus_and_buttons.font_style_selector_1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="2318" width="136" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-384" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-110" y="2252.772727272727" width="510" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-385" value="Benachrichtigungstext&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(bei Erfüllung der Aufgabe)&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-384">
+          <mxGeometry y="-11.16" width="160" height="62.77" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-386" value="Freitext-Feld, mit Platzhaltern für Name, Prüfungsbezeichnung, etc." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;strokeWidth=1;fillColor=#E9ECEF;fontColor=#505050;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-384">
+          <mxGeometry y="90" width="510" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-392" value="weitere Texteditierfunktionen" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-384">
+          <mxGeometry x="40" y="82.22727272727298" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-397" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-384" y="2312" width="184" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-398" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="bgduOCL5DvsCa69tKbjl-397" target="bgduOCL5DvsCa69tKbjl-383">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="2220" as="sourcePoint" />
+            <mxPoint x="90" y="2170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-400" value="Auswahl-Optionen" style="swimlane;strokeColor=#6c8ebf;swimlaneFillColor=#FFFFFF;fillColor=#dae8fc;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1190" width="183" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-401" value="Import" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#666666;fontSize=17;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-400">
+          <mxGeometry y="30" width="183" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-402" value="Export" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=#DDEEFF;fontColor=#666666;fontSize=17;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-400">
+          <mxGeometry y="50" width="183" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-403" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" edge="1" parent="1" source="bgduOCL5DvsCa69tKbjl-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="1320" as="sourcePoint" />
+            <mxPoint x="40" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-404" value="Checkliste importieren" style="text;strokeColor=#36393d;align=center;fillColor=#cce5ff;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="149.23000000000002" y="1382.95" width="230" height="42.687272727272735" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-405" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#36393d;shadow=0;dashed=0;strokeWidth=2;fillColor=#f9f7ed;" vertex="1" parent="1">
+          <mxGeometry x="149" y="1426.3799999999999" width="530" height="336.57" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-409" value="Änderungen verwerfen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1707.95" width="140" height="39.3" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-411" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="159" y="1436.722727272727" width="510" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-412" value="&lt;div&gt;Import der Master-Checkliste: &lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Nutzen Sie für den Import eine Sicherungsdatei einer Checkliste in CSV-Format. Die in der CSV-Datei enthaltenen Checklistenpunkte und -Kategorien werden in Ihre Checkliste übernommen und werden unterhalb bestehender Punkte erstellt. &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Sicherungsdatei hochladen&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-411">
+          <mxGeometry y="-11.16" width="510" height="161.16" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-413" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-411">
+          <mxGeometry y="180" width="510" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-417" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-411">
+          <mxGeometry x="239" y="193.28" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-421" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=20;direction=south;notch=0;fillColor=#B3B3B3;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-411">
+          <mxGeometry x="242" y="196" width="33" height="35.28" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-422" value="Bewegen Sie Dateien in dieses Feld (Drag-and-drop)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bgduOCL5DvsCa69tKbjl-411">
+          <mxGeometry x="111" y="230" width="309" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-415" value="Datei wählen ..." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1575.67" width="130" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="bgduOCL5DvsCa69tKbjl-416" value="Import der Datei" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1707.95" width="140" height="39.3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
