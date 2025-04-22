@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.2.13">
   <diagram name="Checklistenansicht für alle Rollen" id="lf1ekehDghxyOIlsF6fL">
-    <mxGraphModel dx="9586" dy="3680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="5337" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <object label="" Kopie="" id="0">
           <mxCell />
@@ -1256,9 +1256,6 @@
         <mxCell id="dTnm01qr-osAMcASSKYk-276" value="Speichern" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="dTnm01qr-osAMcASSKYk-275">
           <mxGeometry y="-3.9318181818181817" width="120" height="39.29545454545455" as="geometry" />
         </mxCell>
-        <mxCell id="dTnm01qr-osAMcASSKYk-277" value="Löschen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#b85450;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#f8cecc;whiteSpace=wrap;" vertex="1" parent="dTnm01qr-osAMcASSKYk-275">
-          <mxGeometry x="390" y="-0.0018181818181801646" width="120" height="39.29545454545455" as="geometry" />
-        </mxCell>
         <mxCell id="dTnm01qr-osAMcASSKYk-278" value="Änderungen verwerfen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
           <mxGeometry x="-680" y="2589" width="140" height="39.3" as="geometry" />
         </mxCell>
@@ -1421,6 +1418,9 @@
         </mxCell>
         <mxCell id="dTnm01qr-osAMcASSKYk-327" value="" style="line;strokeWidth=2;direction=south;html=1;shadow=1;fillColor=none;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
           <mxGeometry x="825" y="129" width="10" height="2220" as="geometry" />
+        </mxCell>
+        <mxCell id="dTnm01qr-osAMcASSKYk-328" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Textvorlage wiederherstellen&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#b85450;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#f8cecc;whiteSpace=wrap;" vertex="1" parent="K_DAQaWQYb8PbHtszAEa-879">
+          <mxGeometry x="-449" y="2589.0045454545457" width="149" height="41.29" as="geometry" />
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-505" value="Buchende" style="" parent="0" />
         <mxCell id="K_DAQaWQYb8PbHtszAEa-506" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;BUCHENDE&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="K_DAQaWQYb8PbHtszAEa-505" vertex="1">
