@@ -11,7 +11,7 @@
           <mxGeometry x="-1444" y="1182" width="595" height="201.23" as="geometry" />
         </mxCell>
         <mxCell id="HXB8W0FBv_27DA0twiZm-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="939" y="1110.79" width="900" height="849.21" as="geometry" />
+          <mxGeometry x="51" y="1117" width="900" height="849.21" as="geometry" />
         </mxCell>
         <mxCell id="HXB8W0FBv_27DA0twiZm-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="50" y="730" width="410" height="380" as="geometry" />
@@ -1024,13 +1024,13 @@
           <mxGeometry x="-183" y="2044" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-382" value="Benachrichtigungstext" style="text;strokeColor=#36393d;align=center;fillColor=#cce5ff;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="423.23" y="2647" width="230" height="42.687272727272735" as="geometry" />
+          <mxGeometry x="142.23000000000002" y="2317" width="230" height="42.687272727272735" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-383" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#36393d;shadow=0;dashed=0;strokeWidth=2;fillColor=#f9f7ed;" parent="1" vertex="1">
-          <mxGeometry x="423" y="2690.43" width="530" height="336.57" as="geometry" />
+          <mxGeometry x="142" y="2360.43" width="530" height="336.57" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-387" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="433" y="2977.0045454545457" width="510" height="62.04545454545455" as="geometry" />
+          <mxGeometry x="152" y="2647.0045454545457" width="510" height="62.04545454545455" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-388" value="Speichern" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" parent="bgduOCL5DvsCa69tKbjl-387" vertex="1">
           <mxGeometry y="-3.9318181818181817" width="120" height="39.29545454545455" as="geometry" />
@@ -1039,13 +1039,13 @@
           <mxGeometry x="361" y="-2" width="149" height="41.29" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-390" value="Änderungen verwerfen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="563" y="2974" width="140" height="39.3" as="geometry" />
+          <mxGeometry x="282" y="2644" width="140" height="39.3" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-391" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.menus_and_buttons.font_style_selector_1;" parent="1" vertex="1">
-          <mxGeometry x="433" y="2766" width="136" height="31" as="geometry" />
+          <mxGeometry x="152" y="2436" width="136" height="31" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-384" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="433" y="2700.772727272727" width="510" height="260" as="geometry" />
+          <mxGeometry x="152" y="2370.772727272727" width="510" height="260" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-385" value="Benachrichtigungstext&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(bei Erfüllung der Aufgabe)&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="bgduOCL5DvsCa69tKbjl-384" vertex="1">
           <mxGeometry y="-11.16" width="160" height="62.77" as="geometry" />
@@ -1075,16 +1075,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-404" value="Checkliste importieren" style="text;strokeColor=#36393d;align=center;fillColor=#cce5ff;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1265.23" y="1120.79" width="230" height="42.687272727272735" as="geometry" />
+          <mxGeometry x="377.23" y="1127" width="230" height="42.687272727272735" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-405" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#36393d;shadow=0;dashed=0;strokeWidth=2;fillColor=#f9f7ed;" parent="1" vertex="1">
-          <mxGeometry x="1265" y="1164.2199999999998" width="530" height="336.57" as="geometry" />
+          <mxGeometry x="377" y="1170.4299999999998" width="530" height="336.57" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-409" value="Abbrechen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1436" y="1445.79" width="140" height="39.3" as="geometry" />
+          <mxGeometry x="548" y="1452" width="140" height="39.3" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-411" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1275" y="1174.562727272727" width="510" height="260" as="geometry" />
+          <mxGeometry x="387" y="1180.772727272727" width="510" height="260" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-412" value="&lt;div&gt;Import der Master-Checkliste: &lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Nutzen Sie für den Import eine Sicherungsdatei einer Checkliste in CSV-Format. Die in der CSV-Datei enthaltenen Checklistenpunkte und -Kategorien werden in Ihre Checkliste übernommen und werden unterhalb bestehender Punkte erstellt. &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Sicherungsdatei hochladen&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="bgduOCL5DvsCa69tKbjl-411" vertex="1">
           <mxGeometry y="-11.16" width="510" height="161.16" as="geometry" />
@@ -1102,31 +1102,31 @@
           <mxGeometry x="111" y="230" width="309" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-415" value="Datei wählen ..." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1276" y="1313.51" width="130" height="38" as="geometry" />
+          <mxGeometry x="388" y="1319.72" width="130" height="38" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-416" value="Import der Datei" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1276" y="1445.79" width="140" height="39.3" as="geometry" />
+          <mxGeometry x="388" y="1452" width="140" height="39.3" as="geometry" />
         </mxCell>
         <mxCell id="VFgNLC5wdG3V2BmQ9PNp-1" value="Checkliste exportieren" style="text;strokeColor=#36393d;align=center;fillColor=#cce5ff;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1265.23" y="1540.79" width="230" height="42.687272727272735" as="geometry" />
+          <mxGeometry x="377.23" y="1547" width="230" height="42.687272727272735" as="geometry" />
         </mxCell>
         <mxCell id="VFgNLC5wdG3V2BmQ9PNp-2" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#36393d;shadow=0;dashed=0;strokeWidth=2;fillColor=#f9f7ed;" parent="1" vertex="1">
-          <mxGeometry x="1265" y="1584.2199999999998" width="530" height="336.57" as="geometry" />
+          <mxGeometry x="377" y="1590.4299999999998" width="530" height="336.57" as="geometry" />
         </mxCell>
         <mxCell id="VFgNLC5wdG3V2BmQ9PNp-3" value="Abbrechen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1436" y="1865.79" width="140" height="39.3" as="geometry" />
+          <mxGeometry x="548" y="1872" width="140" height="39.3" as="geometry" />
         </mxCell>
         <mxCell id="VFgNLC5wdG3V2BmQ9PNp-4" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1275" y="1594.562727272727" width="510" height="260" as="geometry" />
+          <mxGeometry x="387" y="1600.772727272727" width="510" height="260" as="geometry" />
         </mxCell>
         <mxCell id="VFgNLC5wdG3V2BmQ9PNp-5" value="&lt;div&gt;Export der Master-Checkliste: &lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Sie können für den Export zwischen zwei Dateiformaten wählen. Nutzen Sie PDF, wenn Sie die Liste außerhalb des Systems zur Ansicht nutzen wollen. Nutzen Sie CSV, um eine Sicherungsdatei zu erzeugen oder die Checkliste in ein anderes System zu übertragen. &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Dateiformat&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="VFgNLC5wdG3V2BmQ9PNp-4" vertex="1">
           <mxGeometry y="-11.16" width="510" height="161.16" as="geometry" />
         </mxCell>
         <mxCell id="VFgNLC5wdG3V2BmQ9PNp-11" value="Export der Checkliste" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1276" y="1865.79" width="140" height="39.3" as="geometry" />
+          <mxGeometry x="388" y="1872" width="140" height="39.3" as="geometry" />
         </mxCell>
         <mxCell id="VFgNLC5wdG3V2BmQ9PNp-12" value="" style="swimlane;strokeColor=#999999;swimlaneFillColor=#FFFFFF;fillColor=#ffffff;fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1285" y="1730.79" width="150" height="60" as="geometry" />
+          <mxGeometry x="397" y="1737" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VFgNLC5wdG3V2BmQ9PNp-13" value="PDF" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#F9F7ED;fontColor=inherit;fontSize=17;strokeWidth=0;" parent="VFgNLC5wdG3V2BmQ9PNp-12" vertex="1">
           <mxGeometry width="150" height="30" as="geometry" />
@@ -1154,10 +1154,10 @@
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VFgNLC5wdG3V2BmQ9PNp-34" value="Import" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="945" y="1180.79" width="200" height="30" as="geometry" />
+          <mxGeometry x="57" y="1187" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VFgNLC5wdG3V2BmQ9PNp-33" value="Export" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=5;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="945" y="1210.79" width="200" height="30" as="geometry" />
+          <mxGeometry x="57" y="1217" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VFgNLC5wdG3V2BmQ9PNp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.091;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" source="VFgNLC5wdG3V2BmQ9PNp-34" target="bgduOCL5DvsCa69tKbjl-405" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1457,30 +1457,6 @@
         </mxCell>
         <mxCell id="HXB8W0FBv_27DA0twiZm-106" value="?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7EA6E0;strokeColor=#6c8ebf;fontColor=#FFFFFF;spacing=4;fontSize=12;fontStyle=1" parent="HXB8W0FBv_27DA0twiZm-105" vertex="1">
           <mxGeometry x="2" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="HXB8W0FBv_27DA0twiZm-111" value="" style="strokeColor=#999999;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.editIcon;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="2649.73" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="HXB8W0FBv_27DA0twiZm-112" value="Benachrichtigungstext&lt;br&gt;bearbeiten" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="192" y="2630.726592639769" width="76" height="59.69884615384615" as="geometry" />
-        </mxCell>
-        <mxCell id="HXB8W0FBv_27DA0twiZm-113" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="153" y="2637.73" width="184" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="HXB8W0FBv_27DA0twiZm-114" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="341" y="2663" as="sourcePoint" />
-            <mxPoint x="420" y="2663" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HXB8W0FBv_27DA0twiZm-116" value="Import / Export" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#6c8ebf;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#dae8fc;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="607" y="1185" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HXB8W0FBv_27DA0twiZm-117" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;exitX=0.994;exitY=0.658;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.022;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HXB8W0FBv_27DA0twiZm-116" target="VFgNLC5wdG3V2BmQ9PNp-34" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="748" y="1305" as="sourcePoint" />
-            <mxPoint x="938" y="1210" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="gb0IPw09bOhUzv-tGKt9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="265" y="3430.21" width="827" height="860" as="geometry" />
