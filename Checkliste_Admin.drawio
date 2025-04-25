@@ -1298,7 +1298,7 @@
           <mxGeometry x="-631" y="2962.21" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="HXB8W0FBv_27DA0twiZm-55" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-901" y="2852.21" width="510" height="41.2800000000002" as="geometry" />
+          <mxGeometry x="-901" y="2906" width="510" height="41.2800000000002" as="geometry" />
         </mxCell>
         <mxCell id="HXB8W0FBv_27DA0twiZm-56" value="Kategorie" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="HXB8W0FBv_27DA0twiZm-55" vertex="1">
           <mxGeometry x="-40" width="120" height="41.28" as="geometry" />
@@ -1313,7 +1313,7 @@
           <mxGeometry x="80" y="10.639999999999873" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HXB8W0FBv_27DA0twiZm-60" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-902" y="2902.21" width="510" height="41.28" as="geometry" />
+          <mxGeometry x="-905" y="2852.21" width="510" height="41.28" as="geometry" />
         </mxCell>
         <mxCell id="HXB8W0FBv_27DA0twiZm-61" value="Bezeichnung" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="HXB8W0FBv_27DA0twiZm-60" vertex="1">
           <mxGeometry x="-40" width="130" height="41.28" as="geometry" />
