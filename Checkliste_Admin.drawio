@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.2.14">
   <diagram name="Seite-1" id="YkcdpjiohOVso3VDDVBc">
-    <mxGraphModel dx="3080" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3332" dy="876" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
             <mxRectangle width="58" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bgduOCL5DvsCa69tKbjl-28" value="Prüfende*r" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontColor=#333333;dashed=1;dashPattern=1 4;align=center;fontSize=13;" parent="bgduOCL5DvsCa69tKbjl-25" vertex="1">
+        <mxCell id="bgduOCL5DvsCa69tKbjl-28" value="Prüfende" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontColor=#333333;dashed=1;dashPattern=1 4;align=center;fontSize=13;" parent="bgduOCL5DvsCa69tKbjl-25" vertex="1">
           <mxGeometry x="520" width="130" height="35" as="geometry">
             <mxRectangle width="130" height="35" as="alternateBounds" />
           </mxGeometry>
@@ -213,7 +213,7 @@
             <mxRectangle width="58" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bgduOCL5DvsCa69tKbjl-40" value="Prüfende*r" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontColor=#333333;dashed=1;dashPattern=1 4;align=center;fontSize=13;" parent="bgduOCL5DvsCa69tKbjl-37" vertex="1">
+        <mxCell id="bgduOCL5DvsCa69tKbjl-40" value="Prüfende" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontColor=#333333;dashed=1;dashPattern=1 4;align=center;fontSize=13;" parent="bgduOCL5DvsCa69tKbjl-37" vertex="1">
           <mxGeometry x="520" width="130" height="35" as="geometry">
             <mxRectangle width="130" height="35" as="alternateBounds" />
           </mxGeometry>
@@ -241,7 +241,7 @@
             <mxRectangle width="58" height="36" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bgduOCL5DvsCa69tKbjl-46" value="Prüfende*r" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontColor=#333333;dashed=1;dashPattern=1 4;align=center;fontSize=13;" parent="bgduOCL5DvsCa69tKbjl-43" vertex="1">
+        <mxCell id="bgduOCL5DvsCa69tKbjl-46" value="Prüfende" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontColor=#333333;dashed=1;dashPattern=1 4;align=center;fontSize=13;" parent="bgduOCL5DvsCa69tKbjl-43" vertex="1">
           <mxGeometry x="520" width="130" height="36" as="geometry">
             <mxRectangle width="130" height="36" as="alternateBounds" />
           </mxGeometry>
@@ -548,7 +548,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-126" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="710" width="180" height="450" as="geometry" />
+          <mxGeometry x="-339" y="710" width="186" height="463.5" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-142" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1430" y="1199" width="739" height="182" as="geometry" />
@@ -642,7 +642,7 @@
         <mxCell id="bgduOCL5DvsCa69tKbjl-169" value="Verantwortlich" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="bgduOCL5DvsCa69tKbjl-168" vertex="1">
           <mxGeometry x="-40" width="130" height="41.28" as="geometry" />
         </mxCell>
-        <mxCell id="bgduOCL5DvsCa69tKbjl-170" value="Buchende*r" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" parent="bgduOCL5DvsCa69tKbjl-168" vertex="1">
+        <mxCell id="bgduOCL5DvsCa69tKbjl-170" value="Buchende" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" parent="bgduOCL5DvsCa69tKbjl-168" vertex="1">
           <mxGeometry x="130" width="380" height="41.28" as="geometry" />
         </mxCell>
         <mxCell id="VFgNLC5wdG3V2BmQ9PNp-113" value="" style="group" parent="bgduOCL5DvsCa69tKbjl-168" vertex="1" connectable="0">
@@ -678,7 +678,7 @@
         <mxCell id="bgduOCL5DvsCa69tKbjl-178" value="Empfänger" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=13;" parent="bgduOCL5DvsCa69tKbjl-177" vertex="1">
           <mxGeometry y="-0.0011511203530554398" width="141.1764705882353" height="41.997326430147716" as="geometry" />
         </mxCell>
-        <mxCell id="bgduOCL5DvsCa69tKbjl-179" value="Buchende*r / Service-Team / ... / Keine" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" parent="bgduOCL5DvsCa69tKbjl-177" vertex="1">
+        <mxCell id="bgduOCL5DvsCa69tKbjl-179" value="Buchende / Service-Team / ... " style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" parent="bgduOCL5DvsCa69tKbjl-177" vertex="1">
           <mxGeometry x="119.99588235294118" y="2" width="335.29411764705884" height="42.00000000000002" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-180" value="" style="strokeColor=#999999;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.editIcon;rotation=0;" parent="1" vertex="1">
@@ -798,13 +798,13 @@
         <mxCell id="bgduOCL5DvsCa69tKbjl-211" value="bei Erfüllung der Aufgabe" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=13;fontColor=#000000;labelPosition=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="-734" y="2250" width="10" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="bgduOCL5DvsCa69tKbjl-212" value="Buchende*r / Service-Team / ... / Keine" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" parent="1" vertex="1">
+        <mxCell id="bgduOCL5DvsCa69tKbjl-212" value="Buchende*r / Service-Team / ... " style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" parent="1" vertex="1">
           <mxGeometry x="-567.0041176470588" y="2020" width="335.29411764705884" height="42.00000000000002" as="geometry" />
         </mxCell>
-        <mxCell id="bgduOCL5DvsCa69tKbjl-213" value="Buchende*r / Service-Team / ... / Keine" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" parent="1" vertex="1">
+        <mxCell id="bgduOCL5DvsCa69tKbjl-213" value="Buchende*r / Service-Team / ... " style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" parent="1" vertex="1">
           <mxGeometry x="-567.0041176470588" y="2130" width="335.29411764705884" height="42.00000000000002" as="geometry" />
         </mxCell>
-        <mxCell id="bgduOCL5DvsCa69tKbjl-214" value="Buchende*r / Service-Team / ... / Keine" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" parent="1" vertex="1">
+        <mxCell id="bgduOCL5DvsCa69tKbjl-214" value="Buchende*r / Service-Team / ... " style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=13;spacingLeft=3;" parent="1" vertex="1">
           <mxGeometry x="-567.0041176470588" y="2270" width="335.29411764705884" height="42.00000000000002" as="geometry" />
         </mxCell>
         <mxCell id="bgduOCL5DvsCa69tKbjl-215" value="Benachrichtigungstext&lt;br&gt;bearbeiten" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
