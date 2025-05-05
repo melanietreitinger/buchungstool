@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.2.14">
   <diagram name="Seite-1" id="FBDdOZZ746D29bXGC4om">
-    <mxGraphModel dx="2427" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3185" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,7 @@
             <mxRectangle width="58" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rfoc4b0ECouwkWK_uI7O-30" value="Prüfende*r" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontColor=#333333;dashed=1;dashPattern=1 4;align=center;fontSize=13;" vertex="1" parent="rfoc4b0ECouwkWK_uI7O-27">
+        <mxCell id="rfoc4b0ECouwkWK_uI7O-30" value="Prüfende" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontColor=#333333;dashed=1;dashPattern=1 4;align=center;fontSize=13;" vertex="1" parent="rfoc4b0ECouwkWK_uI7O-27">
           <mxGeometry x="520" width="130" height="35" as="geometry">
             <mxRectangle width="130" height="35" as="alternateBounds" />
           </mxGeometry>
@@ -166,7 +166,7 @@
             <mxRectangle width="58" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rfoc4b0ECouwkWK_uI7O-42" value="Prüfende*r" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontColor=#333333;dashed=1;dashPattern=1 4;align=center;fontSize=13;" vertex="1" parent="rfoc4b0ECouwkWK_uI7O-39">
+        <mxCell id="rfoc4b0ECouwkWK_uI7O-42" value="Prüfende" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#666666;overflow=hidden;fillColor=#f5f5f5;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontColor=#333333;dashed=1;dashPattern=1 4;align=center;fontSize=13;" vertex="1" parent="rfoc4b0ECouwkWK_uI7O-39">
           <mxGeometry x="520" width="130" height="35" as="geometry">
             <mxRectangle width="130" height="35" as="alternateBounds" />
           </mxGeometry>
@@ -811,7 +811,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rfoc4b0ECouwkWK_uI7O-423" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-328" y="480" width="188" height="40" as="geometry" />
+          <mxGeometry x="-325.5" y="480" width="188" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rfoc4b0ECouwkWK_uI7O-424" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="-328" y="554" width="188" height="36" as="geometry" />
@@ -830,6 +830,9 @@
         </mxCell>
         <mxCell id="rfoc4b0ECouwkWK_uI7O-438" value="&lt;div&gt;Die Ansicht der Master-Checkliste verhält sich bei &lt;b&gt;Filterung &lt;/b&gt;wie folgt: &lt;br&gt;&lt;/div&gt;&lt;div&gt;Wird eine spezifische Rolle ausgewählt, werden nur Checklistenpunkte der Rolle angezeigt. Wird ein spezifischer Raum ausgewählt, werden nur die ihn betreffenden Checklistenpunkte angezeigt. Bei &quot;Alle Rollen&quot; bzw. &quot;Alle Räume&quot; werden jeweils alle Punkte für die Filteroption angezeigt. Die Filter wirken in Kombination aufeinander. Filterung Raum 1 und Prüfende*r zeigt alle Checklistenpunkte für die gilt, dass sie Raum 1 als Raum zugeordnet sind und Prüfende*r als Verantwortlich zugeordnet sind. &lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;strokeColor=#666666;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-880" y="90" width="291.5" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="rfoc4b0ECouwkWK_uI7O-439" value="!!Prüfende*r bei Mehrzahl = Prüfende!!" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;strokeColor=#666666;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="120" y="780" width="200" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
