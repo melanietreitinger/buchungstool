@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.8">
   <diagram name="Checklistenansicht für alle Rollen" id="lf1ekehDghxyOIlsF6fL">
-    <mxGraphModel dx="4518" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="4072" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <object label="" Kopie="" id="0">
           <mxCell />
@@ -2877,48 +2877,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K_DAQaWQYb8PbHtszAEa-3" value="Admin" style="" parent="0" />
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-268" value="" style="group" parent="K_DAQaWQYb8PbHtszAEa-3" vertex="1" connectable="0">
-          <mxGeometry x="-1150" y="585" width="15" height="441.28" as="geometry" />
-        </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-240" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#666666;shadow=0;dashed=0;shape=mxgraph.ios7.icons.repeat;pointerEvents=1;direction=south;rotation=0;" parent="K_DAQaWQYb8PbHtszAEa-268" vertex="1">
-          <mxGeometry y="426.28" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-241" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#666666;shadow=0;dashed=0;shape=mxgraph.ios7.icons.repeat;pointerEvents=1;direction=south;rotation=0;" parent="K_DAQaWQYb8PbHtszAEa-268" vertex="1">
-          <mxGeometry y="390" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-242" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#666666;shadow=0;dashed=0;shape=mxgraph.ios7.icons.repeat;pointerEvents=1;direction=south;rotation=0;" parent="K_DAQaWQYb8PbHtszAEa-268" vertex="1">
-          <mxGeometry y="354.28" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-243" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#666666;shadow=0;dashed=0;shape=mxgraph.ios7.icons.repeat;pointerEvents=1;direction=south;rotation=0;" parent="K_DAQaWQYb8PbHtszAEa-268" vertex="1">
-          <mxGeometry y="319" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-244" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#666666;shadow=0;dashed=0;shape=mxgraph.ios7.icons.repeat;pointerEvents=1;direction=south;rotation=0;" parent="K_DAQaWQYb8PbHtszAEa-268" vertex="1">
-          <mxGeometry y="283.44000000000005" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-245" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#666666;shadow=0;dashed=0;shape=mxgraph.ios7.icons.repeat;pointerEvents=1;direction=south;rotation=0;" parent="K_DAQaWQYb8PbHtszAEa-268" vertex="1">
-          <mxGeometry y="246.42000000000007" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-246" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#666666;shadow=0;dashed=0;shape=mxgraph.ios7.icons.repeat;pointerEvents=1;direction=south;rotation=0;" parent="K_DAQaWQYb8PbHtszAEa-268" vertex="1">
-          <mxGeometry y="211.84000000000003" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-247" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#666666;shadow=0;dashed=0;shape=mxgraph.ios7.icons.repeat;pointerEvents=1;direction=south;rotation=0;" parent="K_DAQaWQYb8PbHtszAEa-268" vertex="1">
-          <mxGeometry y="175.64" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-248" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#666666;shadow=0;dashed=0;shape=mxgraph.ios7.icons.repeat;pointerEvents=1;direction=south;rotation=0;" parent="K_DAQaWQYb8PbHtszAEa-268" vertex="1">
-          <mxGeometry y="140.27999999999997" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-249" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#666666;shadow=0;dashed=0;shape=mxgraph.ios7.icons.repeat;pointerEvents=1;direction=south;rotation=0;" parent="K_DAQaWQYb8PbHtszAEa-268" vertex="1">
-          <mxGeometry y="105" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-250" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#666666;shadow=0;dashed=0;shape=mxgraph.ios7.icons.repeat;pointerEvents=1;direction=south;rotation=0;" parent="K_DAQaWQYb8PbHtszAEa-268" vertex="1">
-          <mxGeometry y="70.27999999999997" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-251" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#666666;shadow=0;dashed=0;shape=mxgraph.ios7.icons.repeat;pointerEvents=1;direction=south;rotation=0;" parent="K_DAQaWQYb8PbHtszAEa-268" vertex="1">
-          <mxGeometry y="35" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="K_DAQaWQYb8PbHtszAEa-252" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#666666;shadow=0;dashed=0;shape=mxgraph.ios7.icons.repeat;pointerEvents=1;direction=south;rotation=0;" parent="K_DAQaWQYb8PbHtszAEa-268" vertex="1">
-          <mxGeometry width="15" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="1" style="" parent="0" />
         <mxCell id="K_DAQaWQYb8PbHtszAEa-1" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;Mockup CHECKLISTE&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry y="20" width="827" height="70" as="geometry" />
