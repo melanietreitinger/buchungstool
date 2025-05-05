@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.2.14">
   <diagram name="Seite-1" id="YkcdpjiohOVso3VDDVBc">
-    <mxGraphModel dx="2795" dy="596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4506" dy="1490" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1200,94 +1200,6 @@
         </mxCell>
         <mxCell id="BdMQxAP5hvEptYwLhNIx-1" value="CSV-Format Verlinkung Download Beispiel-CSV- Datei mit entsprechenden Kategorien. Ist eine spezifische Codierung der CSV-Datei z.B. UTF-8 erforderlich? " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#333333;darkOpacity=0.05;fillColor=#f5f5f5;strokeColor=#666666;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="803" y="1036" width="210" height="125.28" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-179" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-444" y="2990" width="900" height="849.21" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-180" value="Checkliste importieren" style="text;strokeColor=#36393d;align=center;fillColor=#cce5ff;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-117.76999999999998" y="3000" width="230" height="42.687272727272735" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-181" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#36393d;shadow=0;dashed=0;strokeWidth=2;fillColor=#f9f7ed;" vertex="1" parent="1">
-          <mxGeometry x="-118" y="3043.43" width="530" height="336.57" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-182" value="Abbrechen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="53" y="3325" width="140" height="39.3" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-183" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-108" y="3053.772727272727" width="510" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-184" value="&lt;div&gt;Import der Master-Checkliste: &lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Nutzen Sie für den Import eine Sicherungsdatei einer Checkliste in &lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;span style=&quot;color: rgb(51, 153, 255);&quot;&gt;&lt;span style=&quot;color: rgb(126, 166, 224);&quot;&gt;&lt;u&gt;CSV-Format&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;. Die in der CSV-Datei enthaltenen Checklistenpunkte und -Kategorien werden in Ihre Checkliste übernommen und werden unterhalb bestehender Punkte erstellt. &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Sicherungsdatei hochladen&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="BdMQxAP5hvEptYwLhNIx-183">
-          <mxGeometry y="-11.16" width="510" height="161.16" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-185" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;" vertex="1" parent="BdMQxAP5hvEptYwLhNIx-183">
-          <mxGeometry y="180" width="510" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-186" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="BdMQxAP5hvEptYwLhNIx-183">
-          <mxGeometry x="239" y="193.28" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-187" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=20;direction=south;notch=0;fillColor=#B3B3B3;fontColor=#333333;strokeColor=#666666;strokeWidth=3;" vertex="1" parent="BdMQxAP5hvEptYwLhNIx-183">
-          <mxGeometry x="242" y="196" width="33" height="35.28" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-188" value="Bewegen Sie Dateien in dieses Feld (Drag-and-drop)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BdMQxAP5hvEptYwLhNIx-183">
-          <mxGeometry x="111" y="230" width="309" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-189" value="Datei wählen ..." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-107" y="3192.7200000000003" width="130" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-190" value="Import der Datei" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-107" y="3325" width="140" height="39.3" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-191" value="Checkliste exportieren" style="text;strokeColor=#36393d;align=center;fillColor=#cce5ff;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-117.76999999999998" y="3420" width="230" height="42.687272727272735" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-192" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#36393d;shadow=0;dashed=0;strokeWidth=2;fillColor=#f9f7ed;" vertex="1" parent="1">
-          <mxGeometry x="-118" y="3463.43" width="530" height="336.57" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-193" value="Abbrechen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="53" y="3745" width="140" height="39.3" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-194" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-108" y="3473.772727272727" width="510" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-195" value="&lt;div&gt;Export der Master-Checkliste: &lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Sie können für den Export zwischen zwei Dateiformaten wählen. Nutzen Sie PDF, wenn Sie die Liste außerhalb des Systems zur Ansicht nutzen wollen. Nutzen Sie CSV, um eine Sicherungsdatei zu erzeugen oder die Checkliste in ein anderes System zu übertragen. &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Dateiformat&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="BdMQxAP5hvEptYwLhNIx-194">
-          <mxGeometry y="-11.16" width="510" height="161.16" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-196" value="Export der Checkliste" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#7EA6E0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-107" y="3745" width="140" height="39.3" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-197" value="" style="swimlane;strokeColor=#999999;swimlaneFillColor=#FFFFFF;fillColor=#ffffff;fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-98" y="3610" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-198" value="PDF" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#F9F7ED;fontColor=inherit;fontSize=17;strokeWidth=0;" vertex="1" parent="BdMQxAP5hvEptYwLhNIx-197">
-          <mxGeometry width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-199" value="" style="shape=ellipse;resizable=0;fillColor=#EEEEEE;strokeColor=#999999;gradientColor=#cccccc;html=1;" vertex="1" parent="BdMQxAP5hvEptYwLhNIx-198">
-          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
-            <mxPoint x="8" y="-7.5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-200" value="CSV" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=27;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=#F9F7ED;fontColor=inherit;fontSize=17;" vertex="1" parent="BdMQxAP5hvEptYwLhNIx-197">
-          <mxGeometry y="30" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-201" value="" style="shape=ellipse;resizable=0;fillColor=#EEEEEE;strokeColor=#999999;gradientColor=#cccccc;html=1;" vertex="1" parent="BdMQxAP5hvEptYwLhNIx-200">
-          <mxGeometry y="0.5" width="15" height="15" relative="1" as="geometry">
-            <mxPoint x="8" y="-7.5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-202" value="Import" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-438" y="3060" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-203" value="Export" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=5;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-438" y="3090" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.091;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" edge="1" parent="1" source="BdMQxAP5hvEptYwLhNIx-202" target="BdMQxAP5hvEptYwLhNIx-181">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" edge="1" parent="1" source="BdMQxAP5hvEptYwLhNIx-203" target="BdMQxAP5hvEptYwLhNIx-192">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BdMQxAP5hvEptYwLhNIx-206" value="CSV-Format Verlinkung Download Beispiel-CSV- Datei mit entsprechenden Kategorien. Ist eine spezifische Codierung der CSV-Datei z.B. UTF-8 erforderlich? " style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#333333;darkOpacity=0.05;fillColor=#f5f5f5;strokeColor=#666666;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="2911" width="210" height="125.28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
