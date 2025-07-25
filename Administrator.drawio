@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6" pages="2">
   <diagram id="U2jb-RSi5WsM652t6KDA" name="Adminoberfläche">
-    <mxGraphModel dx="2096" dy="1407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1223" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Backend Übersicht" id="1">
@@ -595,13 +595,13 @@
         <mxCell id="PNCADngemcSBItdt-AgZ-132" value="&quot;Checklisten-Status&quot; wäre noch zu definieren" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="PNCADngemcSBItdt-AgZ-111" vertex="1">
           <mxGeometry x="418" y="117" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CpTHg6XNIAlYY7pzCRZQ-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.666;entryY=0.003;entryDx=0;entryDy=0;exitX=0.668;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="73b31XL_ingLZRUsvPe2-2">
+        <mxCell id="CpTHg6XNIAlYY7pzCRZQ-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.666;entryY=0.003;entryDx=0;entryDy=0;exitX=0.668;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="73b31XL_ingLZRUsvPe2-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="549" y="248" as="sourcePoint" />
             <mxPoint x="548" y="448" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="73b31XL_ingLZRUsvPe2-15" value="Ressourcen" style="locked=1;" parent="0" visible="0" />
+        <mxCell id="73b31XL_ingLZRUsvPe2-15" value="Ressourcen" style="locked=1;" parent="0" />
         <mxCell id="73b31XL_ingLZRUsvPe2-54" value="" style="whiteSpace=wrap;html=1;fillColor=none;" parent="73b31XL_ingLZRUsvPe2-15" vertex="1">
           <mxGeometry x="840" y="260" width="656" height="1124" as="geometry" />
         </mxCell>
