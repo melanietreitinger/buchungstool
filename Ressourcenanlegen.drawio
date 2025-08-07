@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.0.7">
   <diagram name="Seite-1" id="TynEogUVye8keFvrU7Tp">
-    <mxGraphModel dx="4014" dy="3298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1885" dy="2184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -458,6 +458,18 @@
         </mxCell>
         <mxCell id="8cyJOSozpcJ1r1xfGQ97-387" value="&lt;b&gt;Darstellung von Räumen und &quot;Zusatzressourcen&quot; im Buchungsformular&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2481" y="354.5" width="250" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8cyJOSozpcJ1r1xfGQ97-388" value="Ausblenden einzelner Steckpunkte für Buchungsformular&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="1768" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8cyJOSozpcJ1r1xfGQ97-389" value="Ausgrauen von unabhängigen Ressourcen, die nicht in bestimmten Räumen verfügbar sind beim Buchungsformular&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="2010" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8cyJOSozpcJ1r1xfGQ97-390" value="verfügbar in welchen Räumen&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1241" y="1950" width="110" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8cyJOSozpcJ1r1xfGQ97-391" value="Auswahl Chackbox mit verschiednene Räumen + raumunabhängig ist gleich wenn alle Räume angekreuzt sind" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1510" y="1950" width="110" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
