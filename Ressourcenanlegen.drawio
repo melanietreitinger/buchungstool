@@ -516,7 +516,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ec0obBd7cu82Z-Oucb8n" name="Ressourcenmodul-Admin">
-    <mxGraphModel dx="2864" dy="2233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -559,7 +559,7 @@
         <mxCell id="RXC5fh_b0sR9v4Cp0RQd-10" value="Ressourcen" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=0;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=14;fontStyle=1;rotation=0;resizeWidth=0;fixedWidth=1;" parent="1" vertex="1">
           <mxGeometry x="169" y="140" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RXC5fh_b0sR9v4Cp0RQd-11" value="Prüfungskurs" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=0;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=14;fontStyle=1;rotation=0;resizeWidth=0;fixedWidth=1;" parent="1" vertex="1">
+        <mxCell id="RXC5fh_b0sR9v4Cp0RQd-11" value="Prüfungskurse" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=0;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=14;fontStyle=1;rotation=0;resizeWidth=0;fixedWidth=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="140" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RXC5fh_b0sR9v4Cp0RQd-12" value="Checkliste" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=0;strokeColor=#b85450;fillColor=#f8cecc;fontSize=14;fontStyle=1;rotation=0;resizeWidth=0;fixedWidth=1;" parent="1" vertex="1">
@@ -581,7 +581,7 @@
           <mxGeometry x="170" y="80" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RXC5fh_b0sR9v4Cp0RQd-22" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#68b63f, #214210);sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="-115.5" y="127" width="821" height="116" as="geometry" />
+          <mxGeometry x="-117" y="127" width="821" height="116" as="geometry" />
         </mxCell>
         <mxCell id="mUqZw5j2W_4FQjxDftNP-1" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1490" y="-223" width="630" height="350" as="geometry" />
@@ -1012,6 +1012,7 @@
         <mxCell id="kgOSmi7Y5vXf3PBzSD6U-49" value="Löschen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3558.32" y="1294" width="150" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="kgOSmi7Y5vXf3PBzSD6U-50" value="ohne Pfeile" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
