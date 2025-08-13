@@ -516,7 +516,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ec0obBd7cu82Z-Oucb8n" name="Ressourcenmodul-Admin">
-    <mxGraphModel dx="2253" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3679" dy="2659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -898,7 +898,7 @@
           <mxGeometry x="1570" y="2280" width="388.45" height="130" as="geometry" />
         </mxCell>
         <mxCell id="PhLQ6QScTmyFva8VulCH-6" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Ressourcenansicht (Steckbrief)&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="2036" y="1660" width="213" height="60" as="geometry" />
+          <mxGeometry x="2027" y="1740" width="213" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kgOSmi7Y5vXf3PBzSD6U-1" value="" style="swimlane;strokeColor=#999999;swimlaneFillColor=#FFFFFF;fillColor=#ffffff;fontColor=#9C9C9C;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2854.18" y="790" width="150" height="120" as="geometry" />
