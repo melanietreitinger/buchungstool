@@ -516,7 +516,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ec0obBd7cu82Z-Oucb8n" name="Ressourcenmodul-Admin">
-    <mxGraphModel dx="3679" dy="2659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3319" dy="2657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1465,8 +1465,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="UZjsL2FE1yfX0SLdoqcc" name="Seite-5">
-    <mxGraphModel dx="4074" dy="2129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="UZjsL2FE1yfX0SLdoqcc" name="MoodleMoot">
+    <mxGraphModel dx="3560" dy="2126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
