@@ -5060,7 +5060,7 @@
           <mxGeometry x="203.5699999999997" y="1176" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JbAX00Tep4tcvA4RRzzx-88" value="Löschen" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="630.5699999999997" y="1176" width="150" height="50" as="geometry" />
+          <mxGeometry x="625.5699999999997" y="1179" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JbAX00Tep4tcvA4RRzzx-89" value="Speichern" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1035.0699999999997" y="909" width="150" height="50" as="geometry" />
