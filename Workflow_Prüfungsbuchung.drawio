@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="2">
   <diagram name="Seite-1" id="rsHJdifuD9iGr9NYwkEZ">
-    <mxGraphModel dx="2571" dy="1367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,7 +256,7 @@
             <mxRectangle height="110" width="290" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H5oUYFiL3nfRBEmhyv9Y-19" parent="H5oUYFiL3nfRBEmhyv9Y-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="-" vertex="1">
+        <mxCell id="H5oUYFiL3nfRBEmhyv9Y-19" parent="H5oUYFiL3nfRBEmhyv9Y-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="[3b] Termin erscheint ausgegraut&amp;nbsp;" vertex="1">
           <mxGeometry height="110" width="270" x="480" as="geometry">
             <mxRectangle height="110" width="270" as="alternateBounds" />
           </mxGeometry>
@@ -385,6 +385,17 @@
         <mxCell id="r6acbVty2MtTaMavfKga-2" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=8;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=12;pointerEvents=1;" value="Nicht implementiert, aber must have lt. User Stories" vertex="1">
           <mxGeometry height="50" width="70" x="1050" y="1280" as="geometry" />
         </mxCell>
+        <mxCell id="PWsW-s-wxZc1uj5NCdth-1" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=12;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=12;pointerEvents=1;" value="Discuss!&lt;br&gt;Kann unbestätigte Termine nicht sehen und entsprechend nicht akzeptieren oder bearbeiten. Laut US19 kann er seine Beteiligung Termine absagen" vertex="1">
+          <mxGeometry height="140" width="140" x="670" y="1260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-gWGI9_8i00g4EqyVeVe" name="FlowChart">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
